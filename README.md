@@ -1,5 +1,5 @@
 # ImmigrationPaper
-Analysis for the paper Immigration, Deportation, and Discrimination: Hispanic Political Opinion Since the Election of Donald Trump in the Hispanic Journal of Behavioral Sciences. 
+Analysis for the paper "Immigration, Deportation, and Discrimination: Hispanic Political Opinion Since the Election of Donald Trump" in the _Hispanic Journal of Behavioral Sciences_. 
 
 ImmigrationPaper.ipynb -- R Code for tables in paper
 
