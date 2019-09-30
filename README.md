@@ -2,6 +2,7 @@
 Analysis for the paper Immigration, Deportation, and Discrimination: Hispanic Political Opinion Since the Election of Donald Trump in the Hispanic Journal of Behavioral Sciences. 
 
 ImmigrationPaper.ipynb -- R Code for tables in paper
+
 SurveyData.csv -- data used in paper
 
 Survey Questions:
