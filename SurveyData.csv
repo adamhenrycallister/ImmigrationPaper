@@ -1,0 +1,1081 @@
+Language,Q4,Q24,Q23,Q18,Q5,Q11,Q8,Q17_1,Q17_2,Q17_3,Q17_4,Q19_1,Q19_2,Q19_3,Q19_4,Q19_5,Q19_6,Q20
+EN,Mexico,Female,18-24,1,4,Clinton,0,1.1,1.1,1.1,1.1,5.1,5.7,5,2.9,5,5.6,1.9
+EN,NA,Female,41-50,1,5,Did Not Vote,1,1.2,2.2,2.9,3.6,3.4,3.2,5,3.4,5.1,5.3,4.8
+EN,USA,Female,25-30,1,4,Clinton,0,5.5,3.4,5.1,5,5.9,5.4,5.7,6,5.4,6,5.8
+ES,Argentina,Male,41-50,1,3,Did Not Vote,0,5.1,2.4,4.9,4.1,4.7,3,4.3,4.4,4.8,3.4,4.8
+EN,USA,Male,41-50,0,5,Clinton,0,1,1,1.2,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,51-60,0,5,Did Not Vote,0,4,4.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4
+EN,USA,Male,51-60,0,5,Clinton,0,1,1,5.9,5.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,6.1
+EN,NA,Female,18-24,1,2,Clinton,0,3.1,4,4,4,5,4.8,6.8,3.5,5.1,4.8,4.7
+EN,Ecuador,Female,18-24,0,3,Clinton,0,1.4,3.1,5.7,4.5,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,18-24,0,4,Other,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Female,25-30,1,4,Clinton,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,51-60,1,5,Clinton,0,5.4,6.3,7,5.7,7,7,7,7,7,7,7
+EN,USA,Male,18-24,0,3,Other,0,1,1,4.9,5.9,NA,NA,NA,NA,NA,NA,5.6
+EN,USA,Female,31-40,1,4,Did Not Vote,0,4.7,4.7,4.7,5.2,5,5.1,5,5.3,5.2,5.1,5.2
+EN,Brazil,Female,31-40,0,1,Did Not Vote,0,1,4,5.6,5.9,NA,NA,NA,NA,NA,NA,5.6
+EN,USA,Male,31-40,1,5,Other,1,2.4,2.5,1.8,3.2,3.1,4.9,4.6,4.8,2.4,3,4
+EN,USA,Male,41-50,1,5,Trump,1,1.2,1.2,2.1,2.2,3.5,3.5,3.5,3.5,4.8,3.4,1.4
+EN,USA,Male,31-40,0,4,Clinton,1,5.9,5.9,6,6,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,18-24,1,3,Trump,1,1,1,1,2.2,5.4,2.8,5.2,3.2,5.1,3.1,5.2
+EN,Bolivia,Female,51-60,0,5,Clinton,1,1,1,6,6,NA,NA,NA,NA,NA,NA,6
+EN,USA,Female,18-24,0,3,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,3.8
+EN,USA,Female,31-40,0,1,Trump,NA,2.2,5.2,2.2,6.1,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,18-24,0,4,Clinton,0,1,1,1,4.9,NA,NA,NA,NA,NA,NA,6.3
+EN,USA,Female,31-40,1,5,Clinton,0,1,2.3,7,7,5.8,7,7,5.3,5.3,5.9,5.7
+EN,USA,Female,18-24,1,3,Did Not Vote,0,1,5.4,7,5.3,4.8,7,6.1,7,3.3,1.9,5.4
+EN,USA,Female,18-24,1,4,Clinton,1,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,25-30,0,4,Clinton,0,2,2.9,6.2,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Did Not Vote,1,1,1,5.1,2.4,NA,NA,NA,NA,NA,NA,1
+EN,Other,Female,51-60,0,1,Did Not Vote,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,51-60,0,5,Clinton,0,1.1,1.2,6.6,5.7,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Female,31-40,0,5,Clinton,0,1,2.2,5,6,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,41-50,0,5,Clinton,0,2,5,6.9,7,NA,NA,NA,NA,NA,NA,5.9
+ES,Mexico,Female,41-50,1,1,Did Not Vote,0,1,1,1,4,2.2,3.2,4,1,1,1,4
+EN,USA,Female,31-40,1,5,Clinton,1,NA,NA,NA,NA,2.8,3.5,3.1,3.9,5.4,5.6,6
+EN,USA,Female,61+,0,5,Clinton,1,1,1,6.6,4.1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,41-50,1,5,Did Not Vote,0,1,4.2,7,4.2,5.9,7,5.8,7,6.8,5.5,6.7
+ES,Cuba,Female,51-60,1,5,Trump,1,5.5,2.5,6.7,6.5,4.7,6.5,6.4,6.5,6.4,6.6,6.1
+EN,USA,Male,25-30,0,4,Other,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ES,El Salvador,Male,31-40,1,1,Clinton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ES,Nicaragua,Female,31-40,1,3,Clinton,0,NA,7,7,7,7,7,6,4.7,6.3,6.4,7
+ES,Other,Female,41-50,0,1,Did Not Vote,0,1.6,5.5,6.7,6,NA,NA,NA,NA,NA,NA,6.2
+ES,NA,Male,41-50,1,3,Did Not Vote,0,7,7,7,3.9,5.4,5.4,7,7,7,4.9,7
+ES,Cuba,Female,25-30,0,1,Did Not Vote,0,1,4,4,4.7,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,18-24,1,4,Other,0,3.6,5.8,6.1,6.1,6.5,5.8,5.3,4.7,6.5,7,7
+EN,USA,Female,25-30,1,5,Clinton,0,5.6,5.8,NA,5.6,NA,NA,NA,NA,NA,NA,NA
+EN,Other,Male,41-50,1,5,Clinton,0,1.2,3.2,4.7,5.4,2.7,5.3,6,4.7,4.8,3.5,6.3
+ES,USA,Female,18-24,0,1,Did Not Vote,0,3,5.2,2.9,5.6,NA,NA,NA,NA,NA,NA,5.3
+EN,USA,Male,25-30,1,4,Clinton,0,5.8,2.6,5,5.9,6.2,5.5,5.1,5.5,5.5,5.6,5.7
+EN,USA,Female,18-24,0,NA,Did Not Vote,0,3.3,2.9,2.3,2.9,NA,NA,NA,NA,NA,NA,5.4
+EN,USA,Male,18-24,1,3,Clinton,0,3.1,4.7,5.6,4.3,4.6,4.3,5.1,4.2,3.1,4.4,7
+EN,USA,Male,41-50,1,5,Did Not Vote,0,4.9,4.9,7,7,5.7,6.2,5.4,5.5,6.3,5.9,7
+ES,Mexico,Female,25-30,0,1,Clinton,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,51-60,0,5,Trump,NA,1,1.1,2.3,3.4,NA,NA,NA,NA,NA,NA,4.7
+EN,USA,Female,18-24,0,3,Did Not Vote,0,6.9,5.5,5.6,6.2,NA,NA,NA,NA,NA,NA,6
+EN,USA,Male,51-60,0,5,Trump,1,4.6,4.4,4.7,4.6,NA,NA,NA,NA,NA,NA,4.3
+EN,Other,Male,25-30,0,3,Did Not Vote,1,1,1,1.8,1.7,NA,NA,NA,NA,NA,NA,2
+EN,Cuba,Female,25-30,1,5,Clinton,0,5.4,5.4,4.2,5.7,2.2,5.6,2.7,6.8,3.3,4.9,4.7
+EN,USA,Male,31-40,0,5,Trump,1,1,1.1,4.9,5.9,NA,NA,NA,NA,NA,NA,3
+EN,USA,Female,41-50,1,5,Clinton,0,5.1,1,7,7,4,1,5.3,1,1,1,7
+ES,Other,Female,31-40,1,1,Clinton,0,7,7,7,7,6.8,6.9,6.8,6.9,6.9,6.9,6.9
+ES,Mexico,Male,25-30,1,3,Did Not Vote,0,7,7,7,7,NA,7,7,7,7,7,7
+ES,Colombia,Female,31-40,0,1,Did Not Vote,0,1,2.9,7,6.7,NA,NA,NA,NA,NA,NA,6.4
+ES,Other,Male,41-50,1,1,Did Not Vote,NA,NA,NA,NA,NA,1,NA,2.4,NA,NA,NA,NA
+EN,USA,Male,41-50,1,3,Clinton,0,5.5,5.4,5.4,6,6.2,5.8,5.6,5.9,5.6,5.6,6
+EN,USA,Male,18-24,1,3,Trump,1,6.4,6.4,6.2,6.1,6.6,6.2,6.2,5.7,6.6,6,6.1
+EN,USA,Female,31-40,0,5,Trump,1,1,1,4.4,4.6,NA,NA,NA,NA,NA,NA,2.9
+EN,USA,Male,31-40,0,5,Clinton,0,1,4,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Mexico,Male,41-50,1,5,Other,0,1,1,1,1,1,4.3,5.6,3.5,4.3,1,5.4
+ES,USA,Female,25-30,NA,2,Did Not Vote,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Female,25-30,1,NA,Did Not Vote,0,1,4.3,7,4.2,1,4.1,4.2,4.4,4.2,4.6,4.1
+EN,USA,Female,31-40,1,5,Did Not Vote,0,1,1.1,2,4,NA,6,5.5,6,2.5,1.5,NA
+ES,Mexico,Male,25-30,1,3,Trump,0,4.9,5.1,5,5.3,5.7,5.5,5.7,5.8,5.5,5.6,5.7
+EN,USA,Male,25-30,1,1,Clinton,0,4.7,5.1,3.7,4.5,4.4,4.7,4.9,5.1,5.3,5.5,4.4
+EN,NA,Female,18-24,0,5,Did Not Vote,NA,2.8,4.9,3.8,5.7,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,18-24,1,3,Clinton,0,7,6.9,2.9,6.2,5.5,6.3,6.4,5.2,2.5,6.7,6.8
+EN,NA,Male,18-24,0,4,Did Not Vote,0,1.8,2.2,NA,3,NA,NA,NA,NA,NA,NA,5.4
+EN,El Salvador,Female,25-30,1,3,Clinton,0,4.5,3.2,2.1,5.5,5.2,3,3.6,6.2,4.8,3.1,4
+ES,El Salvador,Female,25-30,1,2,Did Not Vote,0,7,7,7,7,7,7,7,1,7,7,7
+ES,25,Male,18-24,1,1,Other,1,7,6,7,7,7,5.3,7,7,7,3,5
+ES,Other,Female,51-60,0,5,Did Not Vote,0,1,1,5,NA,NA,NA,NA,NA,NA,NA,5.1
+ES,Other,Female,41-50,0,1,Did Not Vote,0,1,4,7,6,NA,NA,NA,NA,NA,NA,NA
+ES,Guatemala,Male,31-40,1,1,Did Not Vote,0,6.3,6.1,5.1,6.7,6.3,6.4,6.1,NA,NA,6.3,7
+EN,USA,Male,25-30,1,2,Trump,0,5.4,4.9,5.6,5.8,5.4,5.9,3.3,5.5,4.6,5,5.9
+EN,USA,Female,31-40,0,5,Other,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,25-30,1,2,Clinton,0,5.6,5.3,4.9,5.6,4.8,5.4,5.5,5.4,5.3,5.5,5.8
+EN,USA,Male,51-60,0,5,Did Not Vote,0,1,1,1.9,1.9,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ES,Puerto Rico,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Chile,Female,18-24,1,3,Clinton,0,2.1,NA,7,6,5.9,6,5.1,5.3,5.6,5.3,5.9
+EN,USA,Female,18-24,1,1,Clinton,0,1.9,5.4,5.5,2.1,5.3,2.7,5.4,2.5,2.7,5.6,5.4
+EN,Mexico,Male,31-40,1,5,Clinton,0,5.4,5.7,6,5.8,5.7,5.5,5.6,5.5,5.7,5.7,5.9
+EN,NA,Male,31-40,1,5,Other,NA,7,2.2,2.5,NA,NA,NA,NA,NA,5.6,NA,NA
+EN,USA,Female,31-40,1,5,Did Not Vote,0,1,3.9,7,7,7,7,7,7,7,7,6
+EN,Puerto Rico,Male,31-40,1,3,Trump,0,7,7,7,7,7,7,6.6,7,6.9,7,7
+EN,USA,Female,51-60,0,5,Clinton,1,1,1.8,5.5,5.7,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,41-50,1,5,Clinton,1,1,6,7,1,7,7,7,7,7,7,7
+EN,USA,Male,41-50,1,1,Clinton,0,5.1,5.7,5.2,5.8,5.3,5.1,6,5.2,5.7,5.4,5
+EN,NA,Female,31-40,0,4,Trump,1,1.1,1.1,1.1,1.1,NA,NA,NA,NA,NA,NA,2
+EN,NA,Male,41-50,0,5,Did Not Vote,1,1,1,NA,5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,1,4,Did Not Vote,1,1,1,4.1,3.6,1,3.4,3.4,4.4,4.2,4.2,4.5
+EN,Other,Female,25-30,1,1,Trump,0,6.5,6.5,6.5,6.4,6.3,6.4,6.7,6.3,6.7,6.6,6.4
+ES,Other,Female,51-60,1,5,Did Not Vote,NA,1,2.1,3.1,2.1,6.1,6.1,6.1,6.3,6.5,5,5.1
+EN,Puerto Rico,Female,18-24,0,3,Clinton,0,7,7,7,7,NA,NA,NA,NA,NA,NA,4
+EN,25,Female,25-30,0,4,Other,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Trump,1,1.1,1.2,2.6,2.1,NA,NA,NA,NA,NA,NA,1.9
+EN,USA,Male,51-60,0,5,Clinton,0,1,1,4.2,4.5,NA,NA,NA,NA,NA,NA,5.1
+ES,Puerto Rico,Female,25-30,0,4,Did Not Vote,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Venezuela,Female,41-50,1,4,Did Not Vote,0,2.2,6.1,7,7,7,7,7,5.7,7,7,7
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1.3,3.2,7,2.6,NA,NA,NA,NA,NA,NA,7
+ES,USA,Male,18-24,1,3,Other,0,1,5,7,6,7,7,6,2.5,5,5.5,5.5
+EN,Puerto Rico,Male,25-30,1,1,Trump,0,4.7,6.1,5.4,5.9,4.5,5.7,6,5.7,5.6,5.7,5
+EN,USA,Female,25-30,1,4,Clinton,0,2.3,7,4.5,7,1,2.6,1.9,4.9,7,2.5,7
+EN,Cuba,Male,25-30,0,2,Clinton,0,1,2,1.5,6,NA,NA,NA,NA,NA,NA,4
+EN,Puerto Rico,Female,18-24,0,1,Clinton,0,5.6,6.7,6.4,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Clinton,0,2.2,2.3,2,2.2,NA,NA,NA,NA,NA,NA,3.5
+EN,USA,Female,18-24,1,4,Did Not Vote,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Male,25-30,0,4,Did Not Vote,0,5.9,6,5.1,5.9,NA,NA,NA,NA,NA,NA,5.9
+EN,NA,Female,25-30,0,3,Clinton,0,7,5.5,7,6.3,NA,NA,NA,NA,NA,NA,6.5
+EN,Mexico,Female,18-24,1,3,Did Not Vote,0,7,6,7,7,NA,5.7,7,NA,2.3,2.1,7
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,1,1,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,18-24,1,3,Did Not Vote,0,6,6.1,7,7,1,1,1,1,1,1,1.9
+EN,USA,Female,18-24,1,3,Clinton,1,5.1,6,7,6,6.1,6.9,6.2,5.1,6.2,5.2,7
+EN,Mexico,Female,18-24,1,3,Clinton,0,6.3,6.1,6.6,6.4,3.3,5,5.8,5.7,2.6,2.5,6.2
+EN,NA,Female,41-50,1,5,Clinton,1,1,2.4,1.9,1.9,1.6,1.7,5.8,5.3,5.8,NA,5.7
+EN,USA,Female,25-30,0,4,Did Not Vote,0,4,4,4,4,NA,NA,NA,NA,NA,NA,6
+EN,Cuba,Female,41-50,1,5,Did Not Vote,0,1,5.7,5.9,6.4,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,25-30,0,4,Did Not Vote,1,1,2.5,3.5,5,NA,NA,NA,NA,NA,NA,3.9
+EN,Honduras,Female,25-30,1,2,Trump,0,2,5,7,4.6,4.7,5.1,5.6,5.1,3.7,4.6,3.7
+EN,USA,Female,18-24,0,3,Clinton,0,4.1,6,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,61+,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,6
+EN,Puerto Rico,Female,41-50,1,4,Clinton,1,7,7,7,7,6.9,7,6.9,6.9,6.8,6.9,6.9
+EN,NA,Female,18-24,0,2,Clinton,0,6.5,7,6.8,7,NA,NA,NA,NA,NA,NA,7
+EN,Cuba,Female,41-50,1,5,Clinton,0,1,1,1,NA,1,7,7,7,2.2,6.6,7
+EN,USA,Female,41-50,0,1,Clinton,0,1.8,5.8,5.7,5.8,NA,NA,NA,NA,NA,NA,5.7
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,6.1,6.2,NA,NA,NA,NA,NA,NA,6
+EN,USA,Male,31-40,1,5,Trump,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1.3,1.5,2.9,1.5,NA,NA,NA,NA,NA,NA,3.1
+EN,NA,Female,31-40,0,4,Did Not Vote,1,1,1.1,3.2,1,NA,NA,NA,NA,NA,NA,2.1
+EN,Puerto Rico,Female,18-24,0,3,Did Not Vote,1,1,1,1,2,NA,NA,NA,NA,NA,NA,2.5
+ES,Mexico,Female,51-60,1,3,Did Not Vote,0,1,7,7,3.8,1,7,7,1,7,7,7
+EN,Puerto Rico,Female,25-30,1,2,Trump,1,5.5,5.2,5.5,2.9,5.6,4.9,6.2,5.2,5.1,5.7,6.4
+EN,NA,Female,31-40,1,5,Did Not Vote,0,1,1,6.9,6.8,6.7,6.7,6.8,6.9,7,5.6,5.5
+EN,Colombia,Female,31-40,0,1,Did Not Vote,1,5,4.1,5,4.4,NA,NA,NA,NA,NA,NA,6.1
+EN,Puerto Rico,Female,41-50,1,3,Clinton,1,1,5.8,5.9,4.4,4.4,5.9,5.9,5.9,5.2,1.7,5.6
+EN,USA,Female,31-40,1,4,Clinton,1,NA,NA,NA,6.8,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,31-40,1,1,Did Not Vote,1,4.8,4.8,4.8,4.8,5,5,5,5,5.1,5.1,4.9
+EN,NA,Female,31-40,1,5,Clinton,1,1,1,7,6,2.6,7,4.8,1,5.7,5.2,7
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,61+,1,5,Clinton,1,5,1,NA,5.7,3.2,3.3,3.4,3.1,3.1,2.9,6.8
+EN,USA,Female,18-24,1,1,Did Not Vote,0,7,6.5,5.4,5.9,5.7,5.9,4.5,5.5,6.6,2.9,4
+EN,USA,Female,31-40,1,2,Other,0,5.9,6.1,6.1,5.5,5.5,7,5.9,6.3,6.4,6.3,6.4
+EN,USA,Male,41-50,0,5,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,4.5
+EN,USA,Male,25-30,1,3,Trump,1,7,7,6.8,7,7,7,1,7,7,7,7
+EN,NA,Female,18-24,1,1,Other,0,6.8,6.7,6.7,6.4,5.7,7,6.8,7,5.5,6.5,7
+EN,NA,Female,18-24,1,2,Clinton,0,7,5.5,7,NA,5.5,6,3,4.5,2,1,7
+EN,USA,Female,51-60,0,3,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,41-50,0,5,Clinton,1,1,1,6,5,NA,NA,NA,NA,NA,NA,4
+EN,Other,Female,51-60,0,5,Clinton,0,1.8,7,7,6.3,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,1,5,Clinton,1,2.1,1.1,4.3,4.1,5.8,6,6.1,6.1,7,6.1,6.8
+ES,Argentina,Male,25-30,1,2,Trump,0,1.5,1.5,1.5,1.9,1.7,1.6,1.5,1.4,1.6,1.7,1.9
+EN,Colombia,Female,41-50,0,1,Did Not Vote,1,1,4,5,4.2,NA,NA,NA,NA,NA,NA,6
+EN,NA,Male,61+,0,5,Other,1,1,1,1,7,NA,NA,NA,NA,NA,NA,1
+ES,25,Male,18-24,1,1,Trump,0,1,7,6.4,7,5.7,4.7,1,4.5,1.9,1.2,5.7
+EN,USA,Male,25-30,0,4,Did Not Vote,0,1,6,7,2.4,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,25-30,1,4,Clinton,0,4.9,3.6,3.5,4.8,4.9,3.7,4.9,3.7,4.4,5,3.6
+EN,USA,Female,31-40,1,5,Did Not Vote,0,5.4,5.5,5.8,6.1,5.9,6,5.7,6.1,6.3,6,6
+EN,NA,Male,41-50,1,5,Did Not Vote,0,1,7,1,7,7,7,7,7,7,7,7
+EN,USA,Female,18-24,1,3,Other,0,5.4,4.8,5.2,5,5.5,6.6,6.1,6,4.6,5.6,5.7
+EN,USA,Male,18-24,1,1,Clinton,1,6.1,6,6.1,6.2,5.9,6,6,6.1,6.2,6.3,6
+EN,Colombia,Female,18-24,1,3,Clinton,0,5.6,6.8,6.8,6.5,5.7,2.6,5.7,3.1,5.9,7,6.1
+EN,USA,Male,31-40,1,5,Clinton,0,1,7,5.4,7,7,4.9,7,5.1,5.1,2.8,7
+EN,USA,Male,31-40,1,5,Clinton,0,6.9,7,6.8,6.3,6.8,6.3,6.7,6,6.8,6.6,6.9
+EN,USA,Male,18-24,1,3,Did Not Vote,0,5.9,5.1,5.7,3.7,4.2,5.4,5.5,5.6,3.7,4.9,5.1
+EN,Puerto Rico,Female,31-40,0,5,Did Not Vote,0,2.1,2.4,2.2,5.3,NA,NA,NA,NA,NA,NA,3.9
+EN,USA,Male,31-40,0,5,Clinton,0,1.1,1.2,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Clinton,0,3.8,7,6,3.6,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,7,1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,1,5,Clinton,0,6.1,5.1,7,5.1,5,5.1,6.2,3.1,2.3,7,6.1
+EN,USA,Female,51-60,0,5,Trump,1,1,1,5,5,NA,NA,NA,NA,NA,NA,2
+EN,USA,Female,31-40,0,5,Other,1,1,1,4.9,4.2,NA,NA,NA,NA,NA,NA,5.4
+EN,USA,Male,51-60,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,18-24,0,3,Other,0,1.7,5.7,7,4.1,NA,NA,NA,NA,NA,NA,1
+EN,Puerto Rico,Female,25-30,1,4,Did Not Vote,0,1,4.1,7,5.2,5.6,5.9,6,6.1,7,5.2,7
+EN,USA,Female,25-30,1,4,Clinton,0,1.8,6.1,7,6.4,6.6,6.7,6.5,6.1,6.4,6.3,NA
+EN,USA,Male,25-30,0,4,Did Not Vote,1,1,1,5.3,5.7,NA,NA,NA,NA,NA,NA,4.5
+EN,USA,Female,31-40,1,5,Did Not Vote,0,5.8,5.4,6,5.6,5.9,6.4,5.7,6,6,6.1,6.9
+EN,USA,Male,31-40,0,5,Did Not Vote,NA,1,1,4,3.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,1,5,Other,0,1,5.1,7,7,1,1,7,5.3,7,7,7
+EN,USA,Male,18-24,0,3,Other,1,4.7,4.7,4.8,4.5,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Female,31-40,1,5,Did Not Vote,0,1,5.4,7,7,6,5.9,6.6,4.2,6.5,6.7,5.4
+EN,USA,Male,41-50,1,5,Clinton,1,3.1,5.7,5.8,5.9,6,7,6.7,6.6,6.6,6.5,6.1
+EN,USA,Female,18-24,0,5,Clinton,0,2.2,1.9,6.3,5.4,NA,NA,NA,NA,NA,NA,6.8
+EN,USA,Male,31-40,1,4,Trump,0,1,7,7,7,7,6.7,7,1,7,7,5.5
+EN,USA,Female,41-50,1,5,Did Not Vote,1,1,1,5,1,3,3,3,2.9,3.1,3,5
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,6.2,6.1,NA,NA,NA,NA,NA,NA,5.2
+EN,Chile,Female,31-40,1,4,Other,0,7,7,7,5.7,5.3,6.9,7,5.1,4.5,6.3,7
+EN,NA,Male,31-40,1,5,Other,1,1,1,1,1,1,1,2.4,3.2,1,1.6,1.1
+EN,Other,Male,51-60,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,3.7
+EN,USA,Female,18-24,0,3,Did Not Vote,0,4,4,6,5,NA,NA,NA,NA,NA,NA,5.1
+EN,NA,Female,18-24,0,5,Clinton,0,1.1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,51-60,1,5,Trump,1,1,1,1.1,1,1,1,1,1,1,1,1
+EN,Puerto Rico,Female,25-30,0,4,Other,0,1.2,1.4,5.3,5.5,NA,NA,NA,NA,NA,NA,6.3
+EN,USA,Female,61+,1,5,Clinton,0,1,1.2,6.9,7,7,6,NA,6.9,NA,5.7,7
+EN,Mexico,Female,25-30,0,1,Did Not Vote,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,41-50,1,5,Did Not Vote,1,1,1,2.1,2.1,3.8,5.9,3.3,2.7,4.1,5,4.8
+EN,USA,Male,25-30,1,4,Did Not Vote,0,1.7,2.8,2.9,2.9,3.2,5.1,3,4.9,5.8,5,4.9
+EN,USA,Female,25-30,1,4,Clinton,0,1.5,5,6.5,7,4.5,7,6.3,7,7,7,7
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,3.1,2.3,NA,NA,NA,NA,NA,NA,4
+EN,Puerto Rico,Male,51-60,1,5,Trump,1,1,1,3.3,1,3,6.1,3,6.2,6.4,2.9,1
+EN,USA,Female,31-40,0,5,Clinton,1,1,1,4.8,5.9,NA,NA,NA,NA,NA,NA,5.2
+EN,El Salvador,Male,25-30,1,1,Clinton,1,6.3,1,1,5.2,5.7,5.9,7,7,7,7,1.2
+EN,USA,Female,51-60,0,5,Trump,1,5.6,6.3,5.2,6.4,NA,NA,NA,NA,NA,NA,5.6
+EN,USA,Female,25-30,0,5,Other,0,1,1,7,7,NA,NA,NA,NA,NA,NA,5
+ES,Puerto Rico,Male,51-60,1,5,Clinton,1,6.5,1,1,7,6.9,6.7,7,5.9,4.2,7,6.9
+EN,Colombia,Female,41-50,0,3,Clinton,0,1,2,6,4,NA,NA,NA,NA,NA,NA,6
+EN,NA,Female,25-30,0,4,Did Not Vote,0,1.7,7,7,7,NA,NA,NA,NA,NA,NA,4.2
+EN,NA,Female,18-24,1,3,Did Not Vote,0,5.5,2.4,5.4,2.8,5,2.9,5,3.2,5.4,3.2,5.4
+EN,NA,Female,31-40,1,3,Clinton,0,2,3,6,2.2,5.8,2.8,5.2,2.7,3.2,5.3,5.4
+EN,NA,Female,18-24,1,3,Clinton,0,7,7,7,7,7,7,7,7,7,7,6.1
+EN,NA,Female,31-40,1,5,Did Not Vote,NA,1,4.7,4.4,5.6,1.1,1,1,1,4.7,1,4.1
+EN,USA,Male,51-60,1,5,Other,1,1,5,5,3,5,5,2,6,1.4,1.4,3
+EN,Cuba,Female,51-60,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Male,25-30,1,3,Trump,0,5.9,6.8,6.1,6.9,6.3,6.8,5.4,6.4,5.7,6.6,6.3
+EN,Mexico,Female,25-30,1,4,Clinton,0,7,7,7,6.2,7,7,6.2,7,7,6.5,7
+EN,Costa Rica,Male,18-24,1,3,Did Not Vote,0,5.5,5.9,5.9,5.7,5.8,6.7,6.3,5.6,6.4,5.9,4.9
+EN,NA,Female,18-24,1,3,Did Not Vote,1,5.1,2.3,5.2,3.7,1.6,5.6,5.6,3.4,3.3,5.4,7
+EN,USA,Female,51-60,0,5,Trump,1,1,1,3.1,1.8,NA,NA,NA,NA,NA,NA,3
+EN,NA,Male,31-40,0,5,Clinton,0,2.7,4.9,6.7,6.3,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Clinton,1,1,1.9,4.8,5.7,5.5,5.4,5.4,NA,NA,NA,7
+EN,USA,Female,18-24,0,3,Clinton,0,1,1,6.2,6.2,NA,NA,NA,NA,NA,NA,5.8
+EN,USA,Male,41-50,1,5,Clinton,0,3.1,2.3,5.5,6.6,5.5,5.7,5.6,5.6,5.8,5.9,5.5
+EN,Puerto Rico,Female,61+,0,5,Did Not Vote,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Chile,Male,41-50,1,2,Clinton,0,5.4,5.8,3.3,4.9,5.5,5.5,5.6,3.1,3.4,5.2,5.3
+EN,Cuba,Male,25-30,1,3,Clinton,1,2.2,5.1,5.9,2.5,2.4,5.7,5.5,1.3,6.1,6.5,2.5
+EN,Cuba,Female,61+,1,5,Clinton,1,1,1,5.6,3.2,1,5.6,NA,1,1,1,6.1
+EN,Mexico,Female,41-50,1,5,Did Not Vote,0,1,1,1,1,1,7,7,1,6.5,6.3,1.2
+EN,USA,Female,18-24,0,3,Did Not Vote,0,5,NA,7,7,NA,NA,NA,NA,NA,NA,3
+EN,USA,Female,25-30,0,5,Clinton,0,1,1,6,5,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,25-30,0,4,Trump,1,5.5,5.1,5.2,5.5,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Female,31-40,1,5,Clinton,0,1,7,7,4.2,7,7,6.2,6.2,7,4.1,6.2
+EN,USA,Male,51-60,0,5,Did Not Vote,1,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Clinton,0,1,1,3.9,5.6,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,31-40,1,5,Did Not Vote,0,1.1,6,6.3,4,5.7,6.3,6.6,6.2,6.2,6,6.2
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,4.1,4.1,NA,NA,NA,NA,NA,NA,6
+EN,USA,Female,31-40,1,5,Trump,1,5.1,4.9,5.3,3.6,5.8,5,4.6,5.6,4.7,5.1,5.4
+EN,Puerto Rico,Male,51-60,0,5,Did Not Vote,0,1,1,5,6.3,NA,NA,NA,NA,NA,NA,7
+EN,Colombia,Female,25-30,0,2,Clinton,0,6.9,6.9,7,6.9,NA,NA,NA,NA,NA,NA,7
+EN,Other,Male,41-50,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Cuba,Male,31-40,1,5,Other,1,1,1,1,1,1,1.3,1.1,1,1.1,1,3
+EN,NA,Female,41-50,0,5,Trump,0,5,5.2,NA,5,NA,NA,NA,NA,NA,NA,5.4
+EN,NA,Female,25-30,1,4,Clinton,0,2.8,5.5,7,7,7,7,7,7,7,7,7
+EN,USA,Female,18-24,1,4,Did Not Vote,0,NA,NA,5.2,6,1.6,5.1,5.5,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,5,5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,0,5,Clinton,0,5.2,5.8,5.7,5.2,NA,NA,NA,NA,NA,NA,6.1
+EN,USA,Female,31-40,1,5,Trump,1,2.8,1,4.5,1,1.3,1,1,1,4.7,1,1
+ES,USA,Female,31-40,1,5,Trump,0,5,5,7,7,5.1,5.2,1.2,7,7,7,5
+ES,Puerto Rico,Male,31-40,0,1,Did Not Vote,0,1,6.3,5.9,5.9,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,18-24,1,3,Clinton,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,25-30,0,4,Trump,1,1,1,1.3,1.8,NA,NA,NA,NA,NA,NA,2.2
+EN,Puerto Rico,Male,31-40,1,4,Clinton,0,5,5.7,6.7,4.7,6,6.7,5.6,5.9,5.1,7,5.8
+EN,Venezuela,Female,51-60,0,4,Clinton,0,5.1,5.8,5.8,6.2,NA,NA,NA,NA,NA,NA,5.4
+EN,USA,Female,25-30,1,1,Trump,0,5.2,5.2,3.5,5,5.1,4.1,4.1,4.1,5.1,4.1,4.8
+EN,USA,Male,61+,0,5,Trump,1,1,1,3,5,NA,NA,NA,NA,NA,NA,3
+EN,NA,Female,18-24,1,4,Did Not Vote,0,2.7,6.5,3.2,4.7,5.3,3.3,7,1,3,6,5.5
+EN,USA,Female,18-24,1,4,Clinton,0,7,7,7,6.7,7,7,2.7,3.5,5.7,4.5,7
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2.7
+EN,Argentina,Male,51-60,0,5,Trump,0,1,1,5.2,1,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,41-50,1,5,Clinton,0,4.9,2.3,3.6,4.8,2.8,2.7,1.8,3.6,4.4,3.6,5.4
+EN,USA,Female,61+,1,5,Clinton,1,3.8,3.9,3.9,4.3,6,7,7,7,7,5.3,7
+EN,USA,Male,31-40,1,3,Clinton,0,5,5.2,5.3,5,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Male,51-60,0,5,Trump,1,1,1.1,1.1,1.2,NA,NA,NA,NA,NA,NA,1.8
+EN,USA,Female,41-50,0,5,Did Not Vote,0,3.3,1.8,3.1,3.7,NA,NA,NA,NA,NA,NA,5.7
+EN,NA,Male,18-24,1,3,Clinton,0,4.8,4.2,4.2,5.4,6.2,6,5.5,5.6,5.4,5.1,4.9
+EN,USA,Male,18-24,1,3,Did Not Vote,0,2.8,4.2,5,7,5.5,4.8,5,7,6.5,2.7,4.7
+EN,Cuba,Female,25-30,0,3,Trump,1,3.1,3.1,3.2,3.3,NA,NA,NA,NA,NA,NA,2.2
+EN,NA,Female,31-40,1,5,Clinton,0,2.2,2.8,2.8,2.5,2.5,2.5,1,2,1.9,1,2.5
+EN,USA,Male,51-60,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1.7
+EN,Argentina,Male,18-24,0,3,Clinton,1,4.9,4.8,5,4.7,NA,NA,NA,NA,NA,NA,5.3
+EN,Venezuela,Female,31-40,0,1,Did Not Vote,1,3,4.4,5.3,3.5,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1.1,1.1,7,5,NA,NA,NA,NA,NA,NA,6.2
+EN,Puerto Rico,Male,18-24,1,2,Did Not Vote,0,5.3,5.7,5.1,2.9,5.3,5.6,4.5,6.9,5.7,3.4,5
+EN,USA,Female,31-40,0,5,Clinton,0,4,4.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,25-30,0,4,Clinton,0,1,1,7,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,1,3,Did Not Vote,0,1,NA,5.9,5.8,5.6,4.9,1.9,NA,2.5,2.7,5.1
+ES,USA,Male,31-40,0,5,Other,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,1,1,Trump,0,5.6,6.4,6.3,6.1,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,18-24,1,3,Trump,0,5.4,5.2,6.3,4.9,5.9,5.7,6.5,5.9,5.2,5.3,5.5
+EN,USA,Male,31-40,1,5,Did Not Vote,0,1.9,2.1,5.5,5.8,NA,5.6,6.6,5.9,5.9,5.4,6.7
+EN,USA,Female,51-60,0,5,Trump,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1,3.2,4.1,NA,NA,NA,NA,NA,NA,2
+ES,Venezuela,Male,25-30,1,1,Did Not Vote,0,7,7,7,5,7,7,7,7,7,7,5
+EN,USA,Female,18-24,1,4,Clinton,0,3.2,2.9,5,5.2,4.2,4.5,4.3,3,4.4,4.4,5.5
+EN,NA,Female,18-24,0,4,Clinton,1,5.6,4,NA,NA,NA,NA,NA,NA,NA,NA,3.5
+EN,USA,Male,51-60,0,5,Clinton,1,1,1,6,7,NA,NA,NA,NA,NA,NA,7
+EN,Colombia,Female,61+,0,5,Clinton,0,1,3,7,5.7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,41-50,1,5,Did Not Vote,1,NA,4.8,2.5,5.6,5.6,2.1,5.2,5,2.1,6.4,6.1
+ES,Other,Female,31-40,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Brazil,Female,25-30,1,3,Clinton,0,5,5,5.1,5.1,5.1,5.2,5.2,5.2,5.3,5.4,5
+EN,USA,Female,41-50,0,5,Other,1,1,1,6,4,NA,NA,NA,NA,NA,NA,4
+EN,Nicaragua,Female,31-40,1,5,Clinton,0,2,5.1,7,7,1.1,1,1,1,6.9,1,6.3
+EN,Puerto Rico,Female,25-30,1,5,Clinton,0,5,5.4,5,6.1,5,6.5,3,5.3,3.2,5.6,5
+EN,USA,Female,51-60,1,5,Clinton,1,2,5.1,6.1,3.4,6.6,6.2,4.1,2.1,2.2,2.1,6.9
+EN,Mexico,Female,18-24,0,5,Did Not Vote,1,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Trump,1,1,1,1,2.8,NA,NA,NA,NA,NA,NA,1
+EN,Cuba,Male,51-60,1,5,Clinton,0,1,1,7,7,6,6,7,6,6,6,7
+EN,NA,Female,25-30,1,4,Did Not Vote,0,6.5,5.8,6.2,6.3,6,6.2,6.4,6.6,6.4,6.4,6.3
+EN,USA,Male,41-50,0,5,Other,0,1,1,4.1,5.6,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,41-50,0,5,Did Not Vote,0,1,1,3.8,3.4,NA,NA,NA,NA,NA,NA,4.3
+EN,Argentina,Female,31-40,1,3,Clinton,1,1,3.1,5,1,5.1,5.1,5.2,4.9,5.2,3.2,6.2
+EN,USA,Female,18-24,1,3,Did Not Vote,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Male,18-24,0,3,Did Not Vote,0,1,1,1,5,NA,NA,NA,NA,NA,NA,3
+EN,NA,Female,25-30,0,4,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,25-30,1,5,Did Not Vote,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,31-40,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1.1
+EN,Puerto Rico,Female,25-30,0,3,Clinton,0,5.6,5.9,7,7,NA,NA,NA,NA,NA,NA,5.3
+ES,Mexico,Female,25-30,1,2,Trump,0,NA,6.1,6.1,6.2,5.5,7,6.1,6.1,5,7,4.2
+EN,Puerto Rico,Male,41-50,1,5,Clinton,1,4,5.1,7,5.2,4,4,4,4,4.9,3.8,6.1
+EN,USA,Male,51-60,1,5,Other,1,1.9,3.1,NA,6,5,5,3.1,5.1,6.2,5.1,5.1
+EN,Mexico,Female,25-30,1,4,Did Not Vote,0,7,7,7,5.1,5.1,7,7,7,7,4.1,7
+ES,Uruguay,Female,18-24,0,3,Clinton,1,3.3,1.2,2.3,2.3,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,41-50,0,5,Clinton,0,2.2,5.7,6.4,6.7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,41-50,0,5,Did Not Vote,0,1,1,1,1,NA,NA,NA,NA,NA,NA,7
+EN,NA,Female,31-40,0,3,Clinton,0,1.1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,31-40,0,5,Did Not Vote,0,1,1,NA,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,0,3,Clinton,0,5.9,6.5,6.1,4.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,1,4,Clinton,0,3.7,3.7,7,7,5.3,6.1,6,6.7,4.6,5.8,7
+EN,USA,Female,25-30,1,4,Did Not Vote,0,1.9,5.1,6.7,5.6,6.2,7,5.1,7,3.3,6.1,7
+EN,Costa Rica,Female,18-24,1,3,Other,0,7,7,7,7,7,7,7,7,7,7,6.8
+EN,USA,Female,61+,1,5,Trump,1,1,1,1,1,3,1,1,1,2,1,1.8
+EN,Mexico,Female,25-30,1,4,Did Not Vote,0,1,1,4.6,5.9,2.9,6.5,5.5,2.3,3.5,2.1,6.1
+EN,Costa Rica,Female,31-40,0,4,Clinton,1,1,4.4,5.6,5.4,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,61+,0,5,Trump,1,1,1,1,2.1,NA,NA,NA,NA,NA,NA,1.5
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,6,6,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Other,0,1,1.3,6.4,6.6,NA,NA,NA,NA,NA,NA,6.2
+EN,NA,Female,18-24,1,4,Did Not Vote,0,2.9,4.2,4.6,5.5,5.8,5.5,6.8,5.6,3.7,4.7,6.8
+EN,USA,Female,25-30,0,4,Clinton,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Other,0,5,5.1,5.1,5.1,NA,NA,NA,NA,NA,NA,5.4
+EN,USA,Male,31-40,0,5,Other,0,1,1,5.5,7,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,7
+EN,Mexico,Female,41-50,0,3,Did Not Vote,0,2.1,1.8,6,1.1,NA,NA,NA,NA,NA,NA,6
+EN,USA,Female,18-24,1,4,Clinton,1,1,4.9,5.3,4.2,4,5.5,7,6,3.8,3.3,7
+EN,USA,Female,25-30,1,4,Clinton,0,5.7,4.9,6.1,NA,3.6,5.8,5.4,2.1,6.2,NA,6
+EN,NA,Female,41-50,1,5,Clinton,0,5.8,5.2,5.5,6.4,3.7,5.5,6.6,3.3,6.8,5.1,5.3
+EN,USA,Female,31-40,1,5,Did Not Vote,1,1,1,1,1.9,2,2,2,1.9,6.5,1.1,3.1
+EN,USA,Female,31-40,0,5,Clinton,0,1.2,4.3,6.6,5.1,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Male,31-40,1,5,Trump,1,1.8,4.2,2.9,3.3,5.2,3.5,2.4,5.7,1.9,3.1,1
+EN,USA,Female,18-24,1,3,Did Not Vote,0,2,7,7,7,7,7,7,4.5,5.8,3.5,6.7
+EN,NA,Female,18-24,1,3,Did Not Vote,0,3.1,4.7,6,5.3,5,5,4.2,4.8,5.9,4.1,6.3
+EN,Cuba,Male,25-30,0,2,Trump,1,1,1,2,1,NA,NA,NA,NA,NA,NA,1
+EN,Puerto Rico,Male,41-50,0,5,Clinton,0,1,1,6.1,6.2,NA,NA,NA,NA,NA,NA,6.1
+EN,NA,Female,41-50,1,5,Clinton,0,2,6.3,5.4,2.2,5.2,2,1.7,5.3,6.5,5.8,6.9
+EN,USA,Male,51-60,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,51-60,1,5,Clinton,0,1,1,7,7,5.1,6,7,1.7,7,6.2,7
+EN,Puerto Rico,Female,41-50,0,3,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,31-40,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Mexico,Female,41-50,0,5,Clinton,0,1,1,4.9,5.1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,18-24,1,3,Other,0,7,7,7,7,1.1,7,7,7,7,7,7
+EN,USA,Female,25-30,1,4,Clinton,0,4,4,7,5.8,6.2,6.2,5.6,3.4,4.6,5.8,6.7
+EN,USA,Female,31-40,1,3,Clinton,0,4,5.1,4.6,4.7,4.6,4.5,4.5,4.7,4.5,4.7,5
+EN,Other,Male,31-40,1,5,Clinton,0,7,7,7,7,7,7,7,7,7,7,7
+EN,Colombia,Female,61+,0,5,Trump,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,3
+EN,NA,Male,25-30,1,3,Trump,0,4.8,5.7,5,5,6.1,5.1,4.9,4.6,5.5,5.6,4.8
+ES,Peru,Female,41-50,0,3,Did Not Vote,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,7
+EN,NA,Female,18-24,1,3,Other,0,7,7,7,7,6.5,7,7,6.4,NA,5.4,6
+EN,USA,Female,61+,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,31-40,1,3,Clinton,1,4.4,2.9,3.4,4.7,1.6,3.1,3.4,3,2.8,2.6,3.6
+EN,USA,Male,31-40,1,5,Clinton,0,1.1,5.8,5.3,2.9,5.9,5.8,6.5,6.3,6.1,6.9,5.2
+EN,USA,Male,31-40,0,5,Clinton,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,41-50,0,5,Clinton,0,NA,5,5.8,5.5,NA,NA,NA,NA,NA,NA,5.8
+EN,NA,Female,18-24,1,3,Other,0,3,6,3.2,5.3,2.7,5.5,5.9,2.1,5.9,3.2,4.4
+EN,USA,Female,25-30,1,4,Clinton,1,5.3,NA,NA,NA,5.8,4.6,5.7,5.4,3.2,5,7
+EN,USA,Female,61+,0,5,Clinton,0,3.1,3.1,6.8,6.6,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,1,2,Clinton,0,6,6.1,6.4,6.4,5.9,6.5,6.5,6.8,6.6,7,7
+EN,NA,Female,51-60,0,5,Clinton,1,1.1,1.1,4.1,4.1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Clinton,0,1.8,3,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Male,25-30,1,3,Clinton,0,2,4.6,6.1,5.1,5.6,5.6,3.4,6.2,5.8,4.9,6.1
+EN,USA,Female,25-30,1,4,Did Not Vote,0,3.3,5.6,6.3,5.6,6.7,6.7,7,4.2,6.5,6.6,7
+EN,Puerto Rico,Male,31-40,0,5,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,7
+EN,Cuba,Female,61+,1,5,Trump,0,1,1,NA,5.6,NA,NA,NA,NA,NA,NA,3
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,7,7,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,25-30,1,4,Did Not Vote,0,2,NA,5,7,NA,6.1,7,6.1,6,5.2,7
+ES,Mexico,Male,31-40,1,3,Trump,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1,2,6,5,NA,NA,NA,NA,NA,NA,7
+EN,Colombia,Male,61+,0,4,Trump,1,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Colombia,Male,18-24,1,1,Clinton,1,2,3,5,4.1,5,5.3,5.2,4.8,4.7,5.3,5
+EN,USA,Female,25-30,0,4,Other,0,1,5.9,5.6,5.7,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,51-60,1,5,Clinton,1,1.6,1.7,3.1,3,2.8,3.4,3.6,3.7,3.8,3.9,4.7
+EN,NA,Female,18-24,1,1,Clinton,0,2.9,2.4,6.1,3.1,5.9,2.4,5.2,2.9,4.7,3.5,6.5
+EN,USA,Female,25-30,0,4,Trump,1,1.4,1.9,4.3,3.2,NA,NA,NA,NA,NA,NA,2.7
+EN,USA,Female,18-24,1,3,Clinton,1,3.6,3.3,5.6,2.8,6,5.4,5,6,5.4,5.6,5.3
+EN,NA,Male,41-50,1,5,Other,0,7,7,7,7,7,7,7,7,7,7,7
+EN,Puerto Rico,Female,18-24,1,3,Trump,1,2.5,5.3,2.7,5.4,4.8,3,5.1,2.3,5.1,3.1,5.2
+EN,USA,Female,61+,0,5,Trump,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,61+,0,5,Trump,1,1,1.1,3.2,3.9,NA,NA,NA,NA,NA,NA,3.1
+EN,USA,Male,61+,0,5,Clinton,1,1.9,1.8,NA,1.3,NA,NA,NA,NA,NA,NA,6.9
+EN,USA,Male,41-50,0,5,Clinton,0,1,1,4.1,5.2,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,18-24,0,3,Clinton,0,3,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Male,31-40,0,1,Clinton,1,5.5,5.5,5.9,6.2,NA,NA,NA,NA,NA,NA,2.8
+EN,USA,Female,25-30,0,4,Other,0,5.6,5.1,5.6,5,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Male,31-40,1,5,Clinton,0,2.5,5.5,7,7,5,5.3,4.1,5.3,6.4,5.4,6
+EN,USA,Male,31-40,1,5,Clinton,0,1,1.9,6,6.7,NA,5.2,5.9,1.7,NA,5,6.1
+EN,Chile,Male,31-40,0,2,Did Not Vote,1,1,1,5,5,NA,NA,NA,NA,NA,NA,6
+ES,Argentina,Female,31-40,0,2,Did Not Vote,0,4,4.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Male,41-50,0,5,Did Not Vote,0,1,1,7,6.5,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,25-30,1,4,Clinton,0,2,5,7,7,7,7,7,7,7,7,7
+EN,Mexico,Male,31-40,1,5,Other,0,5.8,3,7,7,1,7,1,7,7,3,7
+EN,USA,Female,51-60,0,5,Clinton,0,1,1,1,4.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,1,4,Clinton,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Male,31-40,1,5,Other,0,5.5,5.6,5.3,5.6,5.3,5.4,5.7,5.5,5.7,5.8,6
+EN,USA,Male,51-60,0,5,Clinton,1,5.2,5,7,4.8,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Clinton,0,1,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,2.6,5.4,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,31-40,1,5,Trump,1,1,1,1,1,1,4.6,2.7,5.2,2.3,1.9,1
+EN,USA,Female,25-30,1,3,Clinton,0,2.4,5.8,2.3,5.8,5.2,5.8,2.9,6,6.1,5.6,6.5
+EN,Puerto Rico,Male,25-30,0,2,Trump,1,1.7,6.8,6.2,6.1,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Male,41-50,1,5,Clinton,0,3,NA,7,7,NA,7,7,7,7,7,7
+EN,USA,Male,18-24,1,1,Did Not Vote,0,6.8,6.9,5.8,6.5,7,5.9,6.7,6.3,5.6,4.6,7
+EN,USA,Male,25-30,1,2,Did Not Vote,0,5.9,2.3,7,3,6,6,7,7,2.4,5.4,4.1
+ES,Mexico,Male,31-40,1,3,Trump,0,5.9,5.3,5.3,6.7,5.2,5.7,6.8,5.8,5.3,5.9,5.3
+EN,USA,Female,31-40,1,5,Clinton,0,5.2,5.2,7,6.9,5,5.3,5.9,4.1,4.1,6.1,6
+EN,USA,Male,41-50,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,41-50,1,5,Clinton,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Trump,1,1,1,4.1,2,5.1,5.1,4,5.3,1,1,1
+EN,NA,Female,18-24,1,4,Trump,1,7,7,7,7,7,7,7,7,7,7,1
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,1.8,1,NA,NA,NA,NA,NA,NA,2.5
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,2.9,4.1,NA,NA,NA,NA,NA,NA,4.7
+EN,Cuba,Female,61+,0,5,Did Not Vote,0,1,1,1,4.6,NA,NA,NA,NA,NA,NA,5.1
+EN,NA,Male,31-40,1,5,Did Not Vote,0,2,3,6.7,6.1,3,3.2,4.9,3,5.2,3.5,4.8
+EN,USA,Female,31-40,1,5,Clinton,0,1,3.3,5.2,6,5.4,6.3,5.6,4.7,3.4,5.1,7
+EN,USA,Female,31-40,0,5,Did Not Vote,0,2.7,5.1,6.5,5,NA,NA,NA,NA,NA,NA,5.9
+EN,USA,Female,18-24,0,3,Clinton,0,1,5.9,7,5.2,NA,NA,NA,NA,NA,NA,6
+EN,Cuba,Male,25-30,1,4,Clinton,0,3.2,5.1,5.1,4.7,5.3,5.2,5.3,4.9,3.7,4.9,5.6
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1.5,3.3,4.4,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,61+,0,5,Clinton,1,1,1,5.1,6.1,NA,NA,NA,NA,NA,NA,5.5
+EN,USA,Male,18-24,1,3,Clinton,0,6.1,5.1,5.7,6.5,1.7,3.2,4.7,3.4,1.9,1.9,6.2
+EN,USA,Male,18-24,0,3,Trump,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+EN,USA,Male,41-50,0,5,Did Not Vote,0,1.2,1.6,1,5.8,NA,NA,NA,NA,NA,NA,6.3
+EN,Mexico,Male,61+,1,5,Other,0,7,NA,7,NA,7,7,7,7,NA,NA,7
+ES,Puerto Rico,Female,41-50,0,5,Clinton,0,2.9,3.6,3.9,4.2,NA,NA,NA,NA,NA,NA,4.2
+EN,USA,NA,18-24,1,3,Clinton,0,6.1,6.1,6,6,6.1,6.1,6.1,6.3,5.9,5.9,6
+EN,USA,Female,61+,1,5,Clinton,0,NA,NA,7,6.2,6,6.1,6.2,6,7,6.2,7
+EN,USA,Male,31-40,0,5,Clinton,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Male,25-30,0,3,Trump,1,5.4,5.8,6.4,5.9,NA,NA,NA,NA,NA,NA,4.8
+EN,USA,Male,25-30,0,4,Clinton,0,1,1.5,7,6.2,NA,NA,NA,NA,NA,NA,5.6
+EN,USA,Male,31-40,1,5,Clinton,0,1,7,7,7,6.6,6.9,6.8,1,7,7,7
+EN,NA,Female,18-24,0,4,Clinton,0,1,7,7,NA,NA,NA,NA,NA,NA,NA,6
+EN,USA,Female,61+,1,5,Trump,1,1,1,1.7,3,1,1,1,1.3,1.2,1,3
+EN,USA,Female,31-40,1,5,Clinton,0,6.5,3,6.7,6.8,5.2,6.3,6.3,6.6,7,5.3,6.6
+EN,Paraguay,Male,31-40,0,1,Trump,1,1,1,1.8,1.9,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,25-30,0,4,Clinton,0,1,1.8,4.9,4.9,NA,NA,NA,NA,NA,NA,6.9
+EN,USA,Female,31-40,0,5,Trump,1,1,1,2,2,NA,NA,NA,NA,NA,NA,3
+ES,NA,Male,31-40,1,3,Did Not Vote,0,4.1,4.1,4.3,4.4,4.2,4.2,4.1,4.2,3.8,4.2,4.2
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,6,7,NA,NA,NA,NA,NA,NA,5
+EN,Puerto Rico,Male,18-24,1,4,Trump,0,4.5,4.4,4.3,5,4.4,4.3,4.2,4.4,4.5,4.7,4.8
+EN,USA,Male,41-50,1,4,Trump,1,1,6.1,5.8,2.5,5.6,5.3,6,4.1,5.5,4.5,2
+EN,USA,Male,61+,0,5,Clinton,0,1.1,1.5,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,1,4,Did Not Vote,0,2.1,1.3,6.2,5.2,5.5,5.1,6.2,5,6.4,2.6,6.1
+EN,Other,Male,NA,NA,1,Trump,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Female,31-40,1,3,Clinton,0,5.7,5.7,7,NA,7,6.4,6.6,3,5.5,4.5,2.4
+EN,USA,Male,61+,1,5,Clinton,NA,1.9,5.1,5.1,2.5,6.1,6.1,3.1,3.1,6.1,5.1,6.5
+EN,Peru,Male,61+,1,5,Trump,1,1,2,1.9,1.1,1,5.3,3,5.7,3.1,5.8,1
+EN,Cuba,Male,61+,1,5,Clinton,0,1,1,7,7,1,1,5.7,1,5.7,1,5.3
+EN,USA,Male,18-24,1,3,Did Not Vote,1,3.2,4.9,5.1,4.9,1,3.2,3.6,3.1,5.3,3.2,5.6
+EN,USA,Male,41-50,0,5,Clinton,0,1,7,7,5.6,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,41-50,1,5,Did Not Vote,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8
+EN,NA,Female,41-50,0,5,Did Not Vote,NA,1,2.8,6.4,6.8,NA,NA,NA,NA,NA,NA,4
+EN,USA,Male,51-60,1,5,Did Not Vote,1,1,1,1,1,2,6,6,6.1,1.8,6,1
+EN,Cuba,Male,61+,0,5,Other,0,1,NA,5.4,NA,NA,NA,NA,NA,NA,NA,5.1
+EN,Nicaragua,Female,41-50,0,5,Clinton,0,1,5,5.2,6.8,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Trump,1,1,1,1,1,6,7,7,7,7,6,2
+EN,Puerto Rico,Male,61+,1,5,Trump,1,1,1.7,1.7,1.2,1.1,1.2,2.4,1,3,1.6,2
+EN,USA,Female,18-24,1,3,Did Not Vote,0,3.2,4.2,5.1,6.2,7,1.3,2,3.2,4.2,5.3,6.1
+EN,USA,Male,41-50,1,5,Clinton,1,1.1,4.1,4.1,4.1,4.1,4.1,4.1,4.1,4.1,4.1,4.1
+EN,USA,Male,51-60,1,5,Other,1,1,1,1,1,5.1,5.1,5.1,6.4,5.2,5.2,NA
+EN,NA,Male,31-40,0,5,Clinton,0,1,1,1,1,NA,NA,NA,NA,NA,NA,4
+EN,Mexico,Female,61+,1,5,Trump,NA,1,NA,NA,NA,1,1,1.2,3.3,4.1,1.2,4
+EN,USA,Male,18-24,0,3,Did Not Vote,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Puerto Rico,Female,51-60,0,5,Did Not Vote,0,1,1,1,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,61+,1,5,Clinton,1,1,1.9,5,4,3.3,5,3,3,5,5,5.5
+EN,Cuba,Male,61+,0,5,Trump,1,1,1,NA,5.2,NA,NA,NA,NA,NA,NA,1.3
+EN,Cuba,Female,41-50,1,4,Clinton,0,6.9,6.7,6,6.4,6.7,6.7,7,6.3,6.7,5.4,6.7
+EN,USA,Female,18-24,0,4,Clinton,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,NA,Male,31-40,0,4,Clinton,0,5.2,5.3,4.9,5.1,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,5.6,5.7,NA,NA,NA,NA,NA,NA,5
+EN,NA,Female,31-40,0,5,Trump,1,1,1.8,1,2,NA,NA,NA,NA,NA,NA,1.8
+EN,USA,NA,41-50,0,5,Other,1,1,1,1,5.3,NA,NA,NA,NA,NA,NA,6
+EN,Puerto Rico,NA,18-24,1,3,Trump,0,5,5.3,5.6,5.3,4.8,4.7,4.7,4.6,5.9,4.9,5.5
+EN,USA,Male,18-24,1,2,Trump,1,6.9,7,3.9,7,6.9,7,7,7,7,7,7
+EN,USA,Male,61+,0,5,Clinton,0,1,1,5.7,4,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Male,61+,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,31-40,1,5,Clinton,0,5,5,6,6,1,5.1,6.1,6.1,3,1,7
+EN,USA,Male,31-40,1,4,Trump,1,5.3,5,NA,2.9,5.6,5.7,5.8,5.9,2.4,2.8,2.7
+EN,USA,Female,18-24,1,3,Clinton,1,1,2,3.2,3.9,2.5,4.2,4.2,2.9,4.2,4.2,4.9
+EN,USA,Female,25-30,1,4,Trump,1,1.2,1.8,1.8,1.9,1.3,1.5,1.5,1.5,1.4,1.6,1.5
+EN,USA,Male,61+,1,5,Other,0,1,2.7,7,5.7,5.2,5.4,2.8,NA,5.9,NA,6.8
+EN,USA,Female,25-30,1,4,Other,0,1.1,1.2,1,1.1,1.4,1.1,1,1.1,1.8,1.4,1.4
+EN,Puerto Rico,Female,25-30,1,3,Trump,1,3.1,6.2,7,2,3.2,5.2,2.5,3.4,5.2,2.9,2.9
+EN,USA,Female,31-40,0,5,Did Not Vote,0,3.5,5.2,5.6,5.5,NA,NA,NA,NA,NA,NA,5.9
+EN,25,Female,61+,1,5,Other,0,1,1,5.1,7,4.9,6,5,6,7,3.3,6.1
+EN,USA,Female,25-30,1,4,Did Not Vote,0,1,4,7,7,7,7,7,7,7,4,6
+EN,USA,Male,51-60,0,5,Trump,1,2.9,2.8,2.9,3,NA,NA,NA,NA,NA,NA,3.2
+EN,USA,Female,51-60,0,5,Trump,1,2.6,5.1,5.9,3,NA,NA,NA,NA,NA,NA,6.4
+EN,USA,Female,41-50,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Paraguay,Male,31-40,1,4,Other,0,6.9,6.3,6,6.2,6.3,6.6,6.4,6.3,6.1,5.3,6.3
+EN,USA,Female,31-40,1,4,Trump,1,2.4,3.8,4.6,1.6,4.6,3.9,5.4,2.1,5.7,4.2,4.4
+EN,USA,Male,61+,1,5,Trump,1,1,1,1.9,1,3,3,3,5,2,2,1
+EN,USA,Male,31-40,0,5,Did Not Vote,0,1,1.9,6.9,6.6,NA,NA,NA,NA,NA,NA,6.9
+EN,USA,Female,25-30,0,4,Other,1,1,1,1,1,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,25-30,0,4,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Bolivia,Female,31-40,0,3,Clinton,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,41-50,1,4,Clinton,1,2.7,3.5,3.2,3.4,5.3,4.5,5.4,4.7,5.5,5.2,4.8
+EN,USA,Female,51-60,1,5,Clinton,0,NA,NA,7,NA,NA,5,5.3,NA,7,NA,6.1
+EN,USA,Female,18-24,0,4,Did Not Vote,1,1,1,3.9,3.9,NA,NA,NA,NA,NA,NA,3.1
+EN,USA,Male,61+,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,31-40,1,5,Trump,1,1,4.1,6.1,1,4.7,5.7,5,5.8,2.6,6.1,4
+EN,USA,Female,31-40,0,5,Clinton,0,2,2,5.4,5.2,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Trump,1,1,1,1.1,1.4,NA,NA,NA,NA,NA,NA,2.1
+EN,USA,Female,31-40,0,5,Trump,0,5.7,6,6.3,4.7,NA,NA,NA,NA,NA,NA,5.3
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1,1.4,5.2,NA,NA,NA,NA,NA,NA,NA,6.7
+EN,Colombia,Female,41-50,1,3,Clinton,1,1,2,1,3,3,4,4,4,1,1,4.5
+EN,NA,Female,18-24,0,3,Clinton,0,4.5,5.7,6.1,5.7,NA,NA,NA,NA,NA,NA,4.6
+EN,USA,Male,31-40,0,5,Other,0,1,1,1,2.7,NA,NA,NA,NA,NA,NA,2.1
+EN,USA,Female,31-40,0,5,Trump,1,1,1,4.3,3.1,NA,NA,NA,NA,NA,NA,2.7
+EN,USA,Female,18-24,1,3,Did Not Vote,0,1.9,2.8,7,5.1,5.1,6,NA,6,NA,3.1,6
+EN,USA,Female,25-30,0,4,Clinton,1,1,1,1,1,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Female,25-30,0,4,Other,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,25-30,1,4,Did Not Vote,1,NA,NA,NA,NA,5.1,5.7,6.6,6.7,5.5,6.3,NA
+EN,USA,Male,41-50,0,5,Did Not Vote,1,1.6,2.1,1.5,3.2,NA,NA,NA,NA,NA,NA,3.3
+EN,El Salvador,Female,41-50,1,4,Clinton,1,1,1,1.3,6,1.6,1.9,5.5,1,6.2,6,1
+EN,USA,Male,18-24,0,3,Clinton,0,5.2,5.2,4.8,5.2,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Female,31-40,0,5,Did Not Vote,0,7,7,7,6.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,1,2,Clinton,1,1,6,7,7,5.8,4.2,7,7,2.4,7,7
+EN,NA,Male,18-24,1,3,Clinton,0,3.4,2.9,3,2.4,3,3.5,2.9,2.3,4,1.7,3
+EN,USA,Female,41-50,0,5,Clinton,0,1,2.7,4.9,4.9,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Female,31-40,0,5,Clinton,1,1,1,6.8,5.8,NA,NA,NA,NA,NA,NA,6
+EN,NA,Male,25-30,1,5,Trump,1,2.9,6.8,7,5.2,3.8,7,7,6.7,5.9,6.9,7
+EN,NA,Male,31-40,1,5,NA,0,7,7,6.6,7,7,7,7,7,7,7,7
+EN,USA,Male,61+,0,5,Trump,1,1,1,1,3.1,NA,NA,NA,NA,NA,NA,1
+EN,NA,Male,25-30,0,4,Trump,NA,1,1,2.5,5.5,NA,NA,NA,NA,NA,NA,4.9
+EN,NA,Female,25-30,1,3,Did Not Vote,0,7,1,2.4,2.6,7,6,7,5.3,5.3,7,5.2
+EN,NA,Male,18-24,1,2,Clinton,NA,3,5.4,5.1,5.5,5.4,5.1,5.7,3.1,5.6,2.6,5.5
+EN,USA,Male,41-50,1,5,Trump,1,1.6,1.7,1.4,1.7,4.9,5,6.8,6.8,6.7,6.5,1
+EN,USA,Male,25-30,0,4,Clinton,0,1,5.8,7,7,NA,NA,NA,NA,NA,NA,7
+EN,NA,Male,18-24,1,3,Did Not Vote,0,2.8,5.7,2.8,6.4,2.2,6.2,6.2,6.6,1.6,7,1.5
+EN,Puerto Rico,Female,31-40,1,5,Did Not Vote,1,1,5,5,4.3,3.1,3.2,4.3,4.2,4.3,3.5,4.5
+EN,USA,Male,31-40,1,4,Clinton,0,NA,6,2,5.6,5.6,2.8,4.5,3.5,5.2,5.5,5.1
+EN,NA,Female,25-30,0,4,Other,1,1,1,5,1,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,18-24,1,3,Trump,0,5.1,4.6,5.2,4.6,5,6,5,4.5,4.9,4.9,5.1
+EN,USA,Male,25-30,1,3,Did Not Vote,0,1,4.5,2.8,2.7,5,7,2.5,5.4,2.6,5.5,5.4
+EN,Puerto Rico,Male,18-24,1,5,Clinton,1,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Male,41-50,1,4,Clinton,0,1.8,5.9,6.2,6.4,6,6.3,6.1,6.1,7,6.4,7
+EN,Puerto Rico,Male,18-24,1,3,Trump,1,5.9,6.1,5.7,5.4,7,6.1,6,6.5,5.9,7,7
+EN,Puerto Rico,Female,31-40,1,5,Trump,1,1,1,NA,1,7,7,7,7,7,7,1
+ES,Other,Female,25-30,1,1,Did Not Vote,1,1,1,NA,7,1,1,1,1,1,1,6
+EN,USA,Male,31-40,1,5,Other,0,4,3.9,3.9,3.9,3.9,3.8,4.2,4.3,4.4,3.6,3.7
+EN,Mexico,Male,25-30,1,3,Clinton,0,6.9,6.2,6.7,6.1,6.9,6.1,6.9,6.2,6.9,5.9,6.2
+EN,USA,Female,25-30,1,4,Clinton,0,4,6.1,7,7,7,7,7,7,7,7,7
+ES,Puerto Rico,Male,51-60,1,5,Did Not Vote,0,NA,6.8,6.7,4.4,6.3,5.2,5.7,5.8,4.6,5.2,5.6
+ES,Ecuador,Male,31-40,0,4,Clinton,0,1,4.2,1.1,6.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,51-60,0,5,Trump,1,1.1,1.8,1.4,1,NA,NA,NA,NA,NA,NA,1.2
+EN,NA,Female,18-24,0,3,Did Not Vote,1,1,1,5.5,NA,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Clinton,0,1,4,5.6,5,6.1,5.1,6.1,2,5.2,6,6.2
+EN,USA,Male,51-60,0,5,Trump,1,1,1,1.7,1.6,NA,NA,NA,NA,NA,NA,1
+ES,Nicaragua,Male,51-60,1,3,Did Not Vote,0,1.5,5.6,7,7,1,2.2,5.8,1,1.1,1,7
+ES,Mexico,Male,51-60,1,4,Clinton,0,1,2.9,4.7,6.4,1,7,6.2,7,6.9,7,7
+EN,NA,Female,18-24,1,3,Did Not Vote,0,3.9,1,6.4,3.6,3.6,4.9,3.3,5,3,4.4,4
+EN,USA,Female,31-40,1,5,Clinton,0,4.1,4.2,6.9,4.7,5.7,5.1,6,5.5,6.8,3.7,6.5
+ES,USA,Female,18-24,1,1,Did Not Vote,0,7,7,7,7,4,4.2,4.2,1,1.3,6,7
+ES,NA,Female,31-40,0,5,Clinton,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,NA,Male,25-30,1,2,Trump,NA,2.6,6.3,2.8,5.5,5.7,5.6,5.8,5.9,2.8,2.9,5.3
+ES,NA,Male,51-60,0,3,Did Not Vote,0,1.2,2.2,3.5,3.6,NA,NA,NA,NA,NA,NA,NA
+ES,Cuba,Male,61+,0,2,Did Not Vote,1,2,4.1,2,1,NA,NA,NA,NA,NA,NA,2
+EN,Argentina,Male,41-50,1,2,Clinton,0,6.4,5.8,5,5.8,6.2,5.4,3,5.6,5.3,5.6,3.6
+ES,Cuba,Female,31-40,1,2,Did Not Vote,1,1.1,5.5,7,3.1,1,1,1,1,1,1,7
+EN,USA,Female,61+,1,5,Clinton,0,1,1.1,4.1,2.5,6.1,6.3,6.2,4.1,5.7,5.8,7
+EN,USA,Female,31-40,0,5,Clinton,0,1,5.1,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Puerto Rico,Female,51-60,1,5,Did Not Vote,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+EN,NA,Female,31-40,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+ES,Mexico,Male,25-30,1,2,Did Not Vote,0,7,7,7,7,7,3.6,7,7,NA,NA,7
+ES,Mexico,Male,25-30,1,1,Did Not Vote,0,1,6.8,7,7,5,6.1,6.1,3,5.2,6,7
+EN,USA,Male,31-40,1,3,Clinton,0,5,2.3,7,6.1,2.2,6.9,2.4,6.8,7,7,2.8
+EN,NA,Male,18-24,1,3,Clinton,0,4.1,4.1,4.2,4.2,4.2,4.4,5.3,4.3,4.6,4.7,4.4
+EN,USA,Male,41-50,1,5,Clinton,0,1,5.4,4.2,5.2,1,5.3,5.9,1.3,6.4,5.1,5
+EN,NA,Female,25-30,1,4,Did Not Vote,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,31-40,1,5,Clinton,0,1,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,61+,0,5,Trump,1,1,1.9,1.9,1.6,NA,NA,NA,NA,NA,NA,NA
+EN,Cuba,Female,51-60,0,5,Trump,1,1,1,7,6.6,NA,NA,NA,NA,NA,NA,7
+EN,Mexico,Male,25-30,1,5,Clinton,0,6,5.1,5,4.1,5.2,6,6.4,6.3,5.4,5.1,7
+EN,USA,Male,31-40,0,5,Clinton,0,2.7,5.6,6.5,2.5,NA,NA,NA,NA,NA,NA,1.7
+EN,Puerto Rico,Female,31-40,0,5,Clinton,0,4.4,6.2,7,5.3,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Female,25-30,0,4,Clinton,0,7,6.9,7,6.6,NA,NA,NA,NA,NA,NA,1.8
+EN,Brazil,Female,18-24,0,2,Did Not Vote,1,1,1,4,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,31-40,1,5,Clinton,0,3.3,7,7,6.4,6.7,6.1,6.4,6.7,6.7,6.4,6.2
+EN,NA,Male,51-60,0,5,Clinton,1,1,1,6.6,6.9,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,61+,0,5,Clinton,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,El Salvador,Female,41-50,1,4,Trump,1,5.7,5.5,6.2,5.4,5.6,5.3,6.2,4.6,6.5,6,6.3
+EN,USA,Female,18-24,0,3,Trump,1,6.4,6.1,6.4,6.2,NA,NA,NA,NA,NA,NA,6.5
+EN,USA,Male,18-24,1,2,Other,0,4.9,5.1,4.8,4.7,5,4.8,4.5,4.8,5.2,5,4.7
+EN,USA,Female,41-50,0,5,Clinton,0,4,4.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4
+EN,Cuba,Male,61+,0,5,Clinton,1,1.9,1.9,4.1,5.3,NA,NA,NA,NA,NA,NA,3.8
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1,1,7,4,NA,NA,NA,NA,NA,NA,5
+EN,NA,Female,31-40,1,5,Trump,0,3,4,5,6,1,2,3,4,5,6,7
+EN,USA,Male,61+,1,1,Clinton,1,1,1,2.5,3.4,4.8,2.9,4.6,5.6,3.7,5.9,3.3
+EN,USA,Female,31-40,1,5,Did Not Vote,0,7,5.6,7,7,4.5,5.4,7,7,6,4.9,5.6
+EN,USA,Female,31-40,1,5,Did Not Vote,0,NA,7,7,7,6.1,6.2,6.3,7,7,7,7
+EN,NA,Female,18-24,1,3,Other,0,1,NA,7,NA,4,5,6.1,3.5,4,5,7
+EN,Guatemala,Female,51-60,0,5,Clinton,0,2.1,1.6,1.1,3.3,NA,NA,NA,NA,NA,NA,3.8
+EN,USA,Male,41-50,0,5,Other,0,1,1,1,1,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,18-24,0,3,Did Not Vote,0,2.1,1,2.2,7,NA,NA,NA,NA,NA,NA,6.6
+EN,USA,Male,41-50,1,5,Clinton,0,1,NA,7,7,7,7,7,7,4.6,5.5,7
+EN,Puerto Rico,Female,41-50,0,5,Did Not Vote,1,3,2,5.1,3.2,NA,NA,NA,NA,NA,NA,5
+ES,Mexico,Female,51-60,1,4,Clinton,0,2.4,5.6,5.9,6.2,6,6.1,6,6.1,6.1,6.4,6.2
+EN,NA,Female,41-50,1,4,Did Not Vote,NA,3.9,2.5,3.3,5.9,5.1,5.2,6.8,5.5,5,5,3
+EN,USA,Female,51-60,1,5,Clinton,1,1.4,1.9,1.7,1.3,5.9,2.4,1.8,5.8,5.8,5.6,6.6
+ES,Other,Male,61+,0,5,Clinton,0,4.1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Cuba,Male,51-60,1,5,Clinton,0,1,1,5.7,1.9,5.5,7,5.4,6.1,7,4.9,7
+EN,El Salvador,Male,51-60,1,5,Clinton,0,1,4.1,5.8,6,7,7,5.6,7,7,5.5,7
+EN,Puerto Rico,Male,31-40,1,5,Trump,0,6,5.9,6.1,5.9,5.5,5.7,5.6,5.3,3.1,5.3,5.7
+EN,USA,Female,51-60,1,5,Clinton,0,6.4,6.6,6.6,6.6,1.6,1.5,6.7,6.5,5.5,NA,6
+EN,Mexico,Male,25-30,1,2,Clinton,0,6.8,6,6.8,6.7,5.2,5.5,6,6.1,5.3,4.9,7
+EN,USA,Male,31-40,0,3,Clinton,1,4,4.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,18-24,0,3,Did Not Vote,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,18-24,1,2,Clinton,0,4.9,5.6,5.4,6.1,6.2,5.5,3.2,5.2,2.2,4,1
+EN,Other,Male,61+,1,5,Clinton,0,NA,4.1,6.4,5.9,6.9,6.4,6.1,6,6.1,5.3,7
+EN,Other,Male,41-50,0,5,Trump,1,5.3,5.1,5.4,5.2,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1,3.9,2.9,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Male,31-40,1,3,Trump,0,6.5,6.4,6.1,6.5,5.7,5.9,5.6,5.7,5.4,5.5,5.9
+EN,USA,Female,25-30,0,4,Clinton,0,2.8,2.4,3.5,5.7,NA,NA,NA,NA,NA,NA,4.5
+EN,NA,Male,41-50,1,5,Trump,0,6.9,7,7,7,5,5.9,5.2,5.7,5.1,5.8,6.8
+EN,USA,Female,41-50,0,5,Clinton,1,1,3.8,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Puerto Rico,Female,51-60,1,5,Clinton,0,4.2,6.8,6.9,6.9,6.7,6.8,6.7,7,6.8,7,7
+EN,Mexico,Female,41-50,0,5,Other,0,1,1,4.9,5.2,NA,NA,NA,NA,NA,NA,4.6
+EN,USA,Male,31-40,1,5,Trump,1,1,1,1,1.5,1.7,1,3.9,1,4.4,1,1
+EN,Brazil,Female,31-40,0,4,Did Not Vote,0,1.1,2,3,5.2,NA,NA,NA,NA,NA,NA,4.5
+EN,USA,Male,41-50,0,5,Clinton,0,5.1,5.1,5.2,5,NA,NA,NA,NA,NA,NA,6.8
+EN,Cuba,Male,61+,1,5,Trump,1,1,1,3.1,3.9,4.9,3.7,3.7,4.5,4.6,4.7,1
+EN,USA,Female,25-30,0,4,Did Not Vote,0,1.7,1.7,7,6.6,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,0,5,Trump,1,1,1.1,6,2,NA,NA,NA,NA,NA,NA,NA
+EN,Other,Female,61+,0,5,Clinton,0,1,1.2,6.5,6,NA,NA,NA,NA,NA,NA,6.3
+EN,USA,Female,41-50,0,5,Clinton,0,1.1,1.1,7,6.3,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,1,5,Did Not Vote,0,5.2,5,5.4,5.2,5.2,6.5,5,5.2,5.2,5.1,5.1
+ES,Puerto Rico,Male,51-60,0,5,Did Not Vote,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Other,Female,31-40,1,5,Clinton,0,4.6,4.5,7,7,7,4.5,7,3.2,4.6,5.4,7
+ES,Cuba,Female,25-30,1,1,Did Not Vote,0,6.2,7,7,1,6.5,7,7,7,7,7,7
+EN,Puerto Rico,Female,51-60,0,5,Clinton,0,7,6.9,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Peru,Male,31-40,1,1,Did Not Vote,0,1,6.9,6.9,7,7,7,5.9,7,7,5.7,7
+EN,NA,Female,51-60,0,5,Clinton,0,1,1,NA,3.8,NA,NA,NA,NA,NA,NA,6.3
+EN,Colombia,Male,31-40,0,3,Trump,1,1,1.3,5.2,1,NA,NA,NA,NA,NA,NA,2.6
+EN,USA,Male,51-60,0,5,Clinton,0,1,7,7,4,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,41-50,1,2,Clinton,0,6.1,6.3,5.5,6,6.1,6.1,6.6,5.6,6,6.6,6.1
+EN,USA,Female,31-40,0,5,Clinton,0,1,2.3,6.3,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,0,3,Did Not Vote,0,5.1,4.1,7,5.1,NA,NA,NA,NA,NA,NA,5.1
+EN,Puerto Rico,Male,41-50,1,4,Clinton,0,4.8,5.5,5.6,5,5.8,5.3,5.9,5.5,5.2,5.9,5.3
+EN,Cuba,Male,41-50,0,5,Clinton,1,1,1,1,5.1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Other,0,1,1,5.1,3,NA,NA,NA,NA,NA,NA,5
+ES,Mexico,Male,61+,1,1,Did Not Vote,1,2,NA,NA,6.4,NA,NA,5.7,NA,6,NA,2
+EN,USA,Female,31-40,1,1,Trump,0,2.1,7,7,NA,5.1,5.4,7,5.4,6.2,7,5.9
+EN,Puerto Rico,Female,31-40,0,1,Trump,1,5.6,5,5.2,5.3,NA,NA,NA,NA,NA,NA,5.7
+EN,USA,Female,25-30,0,4,Clinton,0,1,1,4.5,4.5,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,61+,0,5,Other,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Other,Male,61+,0,5,Did Not Vote,0,1,1,1,1,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,31-40,0,5,Other,1,1,1,6.2,4.1,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,41-50,1,5,Clinton,0,4.6,7,7,7,7,7,7,7,7,7,7
+EN,USA,Male,25-30,1,2,Trump,0,4.7,5.1,4.2,4.8,4.9,4.8,5.2,5.4,3.4,4.9,5.3
+EN,Other,Female,51-60,0,5,Trump,1,4.1,4.2,4.2,4.2,NA,NA,NA,NA,NA,NA,4.1
+EN,Mexico,Female,31-40,0,3,Other,0,1.3,6.5,5.9,6.2,NA,NA,NA,NA,NA,NA,5.8
+EN,Puerto Rico,Male,61+,0,5,Clinton,1,1,1,2.3,3.7,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,61+,0,5,Clinton,1,1,1.1,6,3.9,NA,NA,NA,NA,NA,NA,4.4
+EN,USA,Male,61+,0,5,Clinton,0,1,6.1,6.2,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,25-30,0,4,Clinton,0,1.2,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,1,5,Trump,1,1,1,1,1,7,7,7,7,7,7,1
+EN,USA,Female,25-30,1,4,Clinton,0,6.9,6.5,6.5,6.7,7,7,7,7,7,7,6.9
+EN,Mexico,Female,18-24,1,3,Clinton,0,4,6.1,7,7,7,7,7,7,7,7,7
+EN,USA,Male,18-24,1,3,Trump,1,1,1,1,1,1,1,1,1,1,1.1,7
+EN,USA,Male,31-40,1,5,Trump,1,1,1,1,1,4.2,4.5,4.2,4.2,4.2,4.2,1
+EN,Mexico,Male,31-40,0,2,Did Not Vote,1,6.1,6.1,6.9,6.9,NA,NA,NA,NA,NA,NA,5
+EN,NA,Female,18-24,1,2,Clinton,0,7,6.7,4.8,5.2,5.9,6.2,6.8,7,6.2,6.6,1.3
+EN,USA,Female,31-40,1,5,Clinton,1,1,3.5,3.6,3.5,4.9,5.1,5.3,5.3,5.4,5.4,7
+EN,USA,Female,41-50,0,5,Clinton,0,2.7,2.8,5.2,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,51-60,0,5,Clinton,1,1.1,5.5,NA,6.3,NA,NA,NA,NA,NA,NA,6
+EN,Argentina,Male,41-50,0,3,Clinton,1,1.2,1.2,NA,1.8,NA,NA,NA,NA,NA,NA,3
+EN,Puerto Rico,Female,25-30,1,3,Clinton,0,5.9,5.4,5.7,3.6,5.5,4.7,2.7,5.1,3.1,2.7,7
+EN,USA,Male,25-30,1,2,Other,0,4.8,4.9,4.8,4.6,4.9,4.8,4.9,4.8,4.6,4.6,4.5
+EN,NA,Female,18-24,0,4,Did Not Vote,1,1,1,6.7,3.4,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,31-40,1,5,Clinton,1,2.8,5.4,5.5,5.6,5.4,5.2,3.2,5.2,5.5,2.3,6.2
+EN,USA,Female,61+,0,4,Other,0,NA,NA,NA,4.1,NA,NA,NA,NA,NA,NA,NA
+ES,Mexico,Female,31-40,0,2,Clinton,0,1,4.3,6.1,5.3,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,1,4,Did Not Vote,0,1,1,1,1,5.9,5.3,5.4,1,NA,NA,1
+EN,USA,Female,61+,0,5,Clinton,1,1,1,1,5.7,NA,NA,NA,NA,NA,NA,6.4
+EN,USA,Female,25-30,1,2,Clinton,1,5.2,5.1,5,5,NA,NA,NA,NA,NA,NA,5.1
+EN,NA,Female,25-30,1,4,Trump,1,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,25-30,0,4,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Clinton,1,1,1.1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,41-50,1,5,Trump,0,5.1,6.1,5.1,5.2,2.5,5.6,5.7,5.9,6.9,5.6,5.8
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,4.7,3.2,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,31-40,0,5,Did Not Vote,0,2.3,4.8,6.1,5.7,NA,NA,NA,NA,NA,NA,4.6
+EN,USA,Male,31-40,1,4,Clinton,0,6,6.1,6.2,6.2,1.7,1.9,2.7,2.7,2.7,2.5,6.4
+EN,USA,Female,18-24,1,4,Did Not Vote,0,5.8,5.8,6.1,5.7,2.1,2.4,2.7,2.4,2.6,2.7,3.1
+EN,USA,Female,25-30,1,4,Clinton,1,1,5.1,6.2,7,7,7,7,7,7,7,7
+EN,USA,Female,61+,0,5,Clinton,0,1,5.3,3.6,1.1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Trump,1,1,1,1,1.4,NA,NA,NA,NA,NA,NA,1.1
+EN,USA,Female,18-24,1,3,Other,0,6.6,4.7,7,5.7,4.9,6.4,6.2,4.4,4.4,5.9,4.6
+EN,USA,Female,18-24,0,4,Trump,1,4.3,5.2,1,2.9,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,41-50,0,5,Did Not Vote,1,1,1,5,5,NA,NA,NA,NA,NA,NA,6
+EN,USA,Female,31-40,1,5,Trump,1,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,51-60,0,5,Clinton,1,1.3,1.4,4.9,NA,NA,NA,NA,NA,NA,NA,4.9
+EN,NA,Male,25-30,1,4,Other,1,3,3,3,3,6,5,5,6,6,5,5
+EN,USA,Female,41-50,1,5,Trump,1,1,1,4,1,3.8,3.9,7,3.7,7,3.9,1.8
+EN,USA,Female,25-30,0,5,Did Not Vote,1,1,1,7,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,25-30,0,4,Trump,1,3.2,5,3.5,3.4,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,1,4,NA,NA,NA,NA,NA,NA,6.1
+EN,Puerto Rico,Male,25-30,1,3,Clinton,0,6.1,7,7,7,6.9,7,6.9,6.9,7,7,6.3
+ES,NA,Male,61+,0,5,Clinton,1,1,1.7,5.2,5.4,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Clinton,0,5.9,6.2,6.5,6,NA,NA,NA,NA,NA,NA,6.4
+EN,USA,Female,51-60,1,5,Clinton,0,1,1,7,7,1,5.7,7,4.1,7,7,7
+EN,USA,Female,25-30,1,4,Trump,1,1,1,4.2,4.2,1,1,1,1,1,1,1
+ES,Mexico,Female,31-40,0,1,Did Not Vote,1,5.3,4.2,6.2,5.9,NA,NA,NA,NA,NA,NA,7
+EN,NA,Female,51-60,0,4,Clinton,0,4.1,4.1,5.6,5.4,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Female,31-40,1,5,Clinton,1,7,7,7,7,7,6.8,6.8,6.3,6.2,6.3,6.9
+EN,NA,Female,18-24,1,3,Clinton,0,6.6,2.4,5.6,5.5,5.7,6.9,5.9,6,7,7,7
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,7,6,NA,NA,NA,NA,NA,NA,5
+EN,USA,Male,31-40,1,5,Clinton,0,1.1,3.1,3.2,4.8,4.8,5.6,5.7,4.9,3.5,6.3,6
+EN,USA,Female,25-30,0,5,Did Not Vote,1,1,3,3,2,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,41-50,0,5,Other,0,1,4,4.1,4.1,NA,NA,NA,NA,NA,NA,7
+ES,USA,Female,18-24,1,4,Other,0,5.1,6.4,6.5,5.2,1.9,2.9,2.2,1.6,1.8,3.4,5.6
+EN,Venezuela,Male,18-24,0,1,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,51-60,0,5,Clinton,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Cuba,Female,51-60,0,2,Did Not Vote,0,1.1,1.1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,51-60,0,5,Clinton,0,1,1.4,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,31-40,0,5,Did Not Vote,0,1,1.1,4.1,4.1,NA,NA,NA,NA,NA,NA,4.1
+EN,Brazil,Male,51-60,0,5,Clinton,0,1,1,6.3,2.5,NA,NA,NA,NA,NA,NA,6.1
+EN,USA,Female,18-24,1,3,Other,0,7,5.2,6.5,6.1,7,7,7,7,7,7,7
+EN,USA,Female,41-50,0,5,Clinton,0,1,1,1,1,NA,NA,NA,NA,NA,NA,7
+EN,Peru,Female,41-50,1,5,Trump,1,7,5,4.9,5.2,6.5,6.5,6.3,5.7,5.6,6.3,4.4
+EN,USA,Female,18-24,0,3,Clinton,0,4.6,6.2,5.9,5.3,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Male,41-50,1,5,Did Not Vote,1,4,4,4,4,4,4,4,4,4,4,4
+ES,USA,Female,18-24,1,4,Other,0,7,7,7,7,7,7,7,6,6.4,7,7
+EN,USA,Male,18-24,1,4,Did Not Vote,0,6,6.6,7,7,6.8,7,7,7,7,7,6.5
+EN,Puerto Rico,Male,51-60,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Other,Female,41-50,1,2,Did Not Vote,0,1,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,41-50,0,5,Clinton,0,1.1,1.1,5,5.1,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Female,61+,1,5,Trump,1,1,1,3,1,2,4.1,2,3.1,3.1,1,2
+EN,USA,Female,61+,0,5,Clinton,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Other,1,1,1,4.9,5,NA,NA,NA,NA,NA,NA,3
+EN,NA,Female,31-40,0,5,Clinton,0,3.3,1,3.3,6.7,NA,NA,NA,NA,NA,NA,7
+ES,Puerto Rico,Female,25-30,0,4,Did Not Vote,0,1,4.3,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,51-60,1,5,Clinton,0,1,2,4,6,2,2,2,1,1,1,1
+EN,Other,Female,51-60,1,5,Trump,1,1.1,2,1,3.3,2.5,2.7,2.8,2.5,2.1,2.4,1.9
+EN,USA,Female,25-30,0,4,Trump,1,1,1,1.8,1,NA,NA,NA,NA,NA,NA,2.1
+ES,Puerto Rico,Female,41-50,1,5,Did Not Vote,0,2,6,7,6,2,1,4.2,3,1,1,5.8
+EN,USA,Female,18-24,1,3,Clinton,0,6,6.7,7,5,7,7,7,7,7,5.6,7
+EN,USA,Female,31-40,1,4,Did Not Vote,1,3.4,3.8,4.5,3.5,4.1,4.4,3.3,4.3,4.2,4.6,5
+EN,USA,Female,41-50,1,5,Clinton,0,6.6,6.5,7,5.7,5.4,5.8,5.9,4.9,3.7,6.5,6.5
+EN,USA,Female,41-50,1,5,Other,0,1.9,3.1,4.9,6.1,6.1,7,7,NA,2.1,6.1,NA
+ES,Mexico,Female,18-24,1,1,Did Not Vote,0,7,7,7,7,7,7,7,7,6.1,2.9,7
+EN,USA,Male,51-60,0,5,Other,0,1,1,6,5.5,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Trump,1,1.1,5,6.6,5.1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,61+,1,5,Clinton,0,1.2,4,4,3.5,5.2,6.7,5.8,6.3,4.2,4.3,6.4
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,5.7,6.4,NA,NA,NA,NA,NA,NA,5.8
+ES,USA,Female,18-24,1,1,Did Not Vote,0,7,7,7,7,7,7,7,NA,5.5,7,7
+EN,USA,Male,18-24,0,4,Trump,1,4.8,5.1,5.3,4.9,NA,NA,NA,NA,NA,NA,2.9
+EN,USA,Male,61+,1,5,Clinton,0,2.3,6.9,7,7,5.3,5.4,5.4,2.8,5.8,1,7
+ES,Guatemala,Female,25-30,1,1,Did Not Vote,0,NA,1,NA,NA,3,2.9,2.8,2.7,2.9,2.5,7
+EN,Brazil,Male,31-40,0,5,Clinton,1,1.9,5.4,5.4,5.5,NA,NA,NA,NA,NA,NA,5.6
+ES,Cuba,Female,25-30,0,3,Did Not Vote,0,1,4.2,4.6,5.1,NA,NA,NA,NA,NA,NA,6.1
+EN,USA,Male,31-40,0,5,Clinton,1,2,2,5.5,5.5,NA,NA,NA,NA,NA,NA,4.5
+EN,Argentina,Male,25-30,1,1,Did Not Vote,0,5.5,5.4,5.2,5.3,5.5,5.4,5.5,5.4,5.5,5.6,5.5
+EN,USA,Male,25-30,1,3,Clinton,0,5.9,6.5,5.9,5.8,5.5,5.8,6.3,6.2,6.7,6.5,6.7
+ES,Argentina,Female,18-24,0,1,Did Not Vote,1,7,7,7,7,NA,NA,NA,NA,NA,NA,4.3
+EN,Other,Male,31-40,1,2,Trump,0,7,7,7,7,7,7,7,7,7,7,7
+EN,NA,Male,51-60,0,5,Other,1,1,1,1.1,4,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,41-50,0,5,Did Not Vote,1,1,1,5,4.1,NA,NA,NA,NA,NA,NA,6
+EN,USA,Male,25-30,1,4,Clinton,0,1,5.6,7,5.5,5.1,4.9,2.6,7,7,2.2,6
+EN,USA,Male,31-40,1,3,Trump,1,2.6,2.7,4.2,1.9,3.5,5,5,2,4.2,4.2,2.9
+ES,Mexico,Female,31-40,0,2,Did Not Vote,0,2.1,4.1,7,7,NA,NA,NA,NA,NA,NA,6
+ES,Mexico,Female,41-50,1,3,Did Not Vote,0,4.1,4.2,6.8,7,5.1,6.4,7,4.4,5.6,7,4.1
+ES,NA,Female,31-40,0,5,Did Not Vote,NA,5.5,5.7,5.9,5.9,NA,NA,NA,NA,NA,NA,5
+EN,El Salvador,Female,61+,1,3,Trump,1,1,6.4,4.1,5.1,6.4,7,6.4,6.6,6.8,4.2,7
+ES,Puerto Rico,Female,51-60,0,5,Did Not Vote,0,1,1,1,1,NA,NA,NA,NA,NA,NA,3.4
+ES,NA,Female,41-50,0,1,Did Not Vote,0,5,1.8,4.2,1.6,NA,NA,NA,NA,NA,NA,5.9
+ES,Puerto Rico,Female,31-40,1,5,Clinton,0,4,4.2,7,5,NA,5,6.5,NA,NA,5.6,7
+ES,Mexico,Female,31-40,1,3,Did Not Vote,0,7,NA,NA,NA,7,NA,NA,NA,NA,NA,7
+ES,Honduras,Male,18-24,1,1,Clinton,0,7,7,7,6,6,6,5,5,5,7,6
+ES,Cuba,Female,25-30,0,1,Did Not Vote,1,1,1,6.1,6,NA,NA,NA,NA,NA,NA,6.9
+ES,Mexico,Female,61+,0,5,Clinton,0,1.9,2.5,5.1,5.3,NA,NA,NA,NA,NA,NA,6
+ES,Mexico,Male,18-24,1,1,Trump,0,5.8,6.2,6.6,6.7,6.3,6.2,6.6,6.4,6.4,5.7,1.8
+EN,USA,Female,25-30,1,4,Trump,0,1,1,1,4.9,5.3,5.3,4.5,2.2,2.6,3.3,3.6
+EN,Other,Female,61+,1,5,Trump,1,1,1,1,1,1,5.4,5.4,5.4,4.7,4.1,5
+EN,USA,Male,18-24,1,3,Did Not Vote,0,1,1,4.8,6.2,2.2,5.5,5.9,4.7,5.5,4,2.7
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,5.2,5.4,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,25-30,1,4,Clinton,0,5,5.1,4.8,4.4,2.3,3.3,3.2,5.2,NA,NA,6.1
+EN,USA,Female,51-60,1,5,Clinton,0,1,5,7,6,7,5.9,7,NA,6,4.4,7
+ES,Mexico,Female,31-40,0,4,Trump,1,1.4,5.2,6.4,3.8,NA,NA,NA,NA,NA,NA,4.7
+ES,NA,Female,31-40,1,5,Did Not Vote,0,7,7,7,7,6,7,7,7,7,6,7
+ES,Puerto Rico,Female,51-60,1,5,Did Not Vote,0,6.1,6.6,7,6.8,6.5,6.6,6.7,5.2,5.6,7,7
+ES,Puerto Rico,Female,41-50,1,1,NA,1,4.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6
+EN,USA,Female,51-60,1,5,Clinton,0,1.1,1.1,7,7,7,7,7,7,7,6.9,7
+EN,USA,Male,51-60,0,5,Clinton,0,1,1,2.9,2.9,NA,NA,NA,NA,NA,NA,5.7
+EN,USA,Female,31-40,1,5,Clinton,0,1,1,1,5.4,1.1,1.1,5,2.9,5,3.4,5.4
+ES,Other,Female,25-30,0,1,Did Not Vote,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ES,El Salvador,Female,18-24,1,1,Clinton,0,3,6.5,7,7,6,6,6.1,7,6.8,7,4
+ES,USA,Male,25-30,0,3,Did Not Vote,0,4,4,4,7,NA,NA,NA,NA,NA,NA,4
+ES,USA,Female,51-60,0,NA,Clinton,0,2.9,5.2,5.7,5.7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,1,3,Clinton,0,1,5.4,7,7,2.1,2,5.9,5,4.1,NA,7
+EN,USA,Male,25-30,1,3,Trump,0,5.4,5.2,4.7,5.1,4.7,5.1,4.6,5.4,4.8,NA,5.1
+EN,Honduras,Female,31-40,1,4,Did Not Vote,0,7,7,7,7,6.3,7,7,4.9,7,7,7
+EN,USA,Female,31-40,0,5,Clinton,0,1,1,4.1,4.1,NA,NA,NA,NA,NA,NA,4.1
+ES,Cuba,Female,25-30,0,1,Did Not Vote,0,4.3,5.7,5.9,6.1,NA,NA,NA,NA,NA,NA,4.9
+ES,Costa Rica,Female,31-40,0,1,Trump,1,1,1,NA,3,NA,NA,NA,NA,NA,NA,5.1
+ES,Puerto Rico,Female,51-60,1,5,Did Not Vote,0,2,2.3,2,2,2.2,2.2,2.2,2.1,2.1,2,7
+ES,NA,Female,31-40,0,5,Clinton,0,NA,NA,4.7,5.6,NA,NA,NA,NA,NA,NA,2.8
+ES,Cuba,Female,41-50,1,3,Trump,0,7,7,7,7,7,7,7,7,7,7,7
+ES,Chile,Male,25-30,1,4,Trump,1,2.3,6.2,6.3,6.1,1,6,6.3,6.2,6.5,6.2,6.3
+EN,USA,Female,61+,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+ES,Mexico,NA,31-40,1,2,Other,0,2.5,3.3,6.1,5.5,2.7,1.7,2.9,1.6,2.5,4.2,5.9
+ES,Ecuador,Male,41-50,1,3,Clinton,0,1.1,1.2,4.3,7,4.4,7,6.9,6.8,6.8,6.6,6.9
+EN,USA,Male,51-60,0,5,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2
+ES,Nicaragua,Male,25-30,1,2,Clinton,0,3.4,4.7,3.5,4.6,3.2,4.6,3.6,4.5,3.4,4.5,3.1
+ES,USA,Male,18-24,0,3,Trump,0,1,NA,5.1,NA,NA,NA,NA,NA,NA,NA,5
+EN,Argentina,Female,51-60,0,2,Did Not Vote,0,1,1,4,4.1,NA,NA,NA,NA,NA,NA,4
+EN,USA,Female,51-60,0,5,Clinton,0,1.9,3,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Female,41-50,1,5,Did Not Vote,0,7,7,7,7,7,7,7,6.1,3.4,NA,7
+EN,Puerto Rico,Female,51-60,1,5,Did Not Vote,1,1,1,5.6,2,1.7,6,6.5,6.8,6,6.4,7
+EN,USA,Female,25-30,1,4,Trump,0,1,4.2,5.9,4.8,6.2,7,7,7,7,6.3,7
+ES,Venezuela,Male,51-60,0,1,Did Not Vote,1,2.1,6.2,6.6,6.4,NA,NA,NA,NA,NA,NA,2.9
+ES,Other,Female,51-60,1,1,Did Not Vote,0,6.1,6.1,7,7,6.1,7,7,7,7,7,7
+EN,USA,Male,51-60,0,5,Other,1,1,1,1,1,NA,NA,NA,NA,NA,NA,3.5
+EN,USA,Male,31-40,0,5,Did Not Vote,1,1,1,6,NA,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Clinton,1,1,1.1,3.8,5.6,NA,NA,NA,NA,NA,NA,6.9
+ES,NA,Male,31-40,1,1,Did Not Vote,0,6.8,6.7,6.5,6.7,6.6,6.8,6.7,6.7,6.5,6.5,6.6
+EN,USA,Female,31-40,1,5,Did Not Vote,1,1,1,1,2,1,1,1,1,1,1,1
+EN,Puerto Rico,Female,51-60,1,5,Clinton,0,7,7,7,7,7,7,7,7,7,7,7
+ES,25,Female,25-30,1,2,Other,0,1,7,4.8,5.2,6.8,7,4.1,5.1,6,2.6,5
+ES,NA,Male,25-30,1,3,Clinton,0,5.3,5.8,5.7,2.2,6.5,7,7,7,7,7,6.9
+ES,Puerto Rico,Female,51-60,0,2,Clinton,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Nicaragua,Male,31-40,1,3,Did Not Vote,0,1,7,7,7,7,7,7,7,7,4.1,5.2
+ES,USA,Male,31-40,0,5,Trump,0,7,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Male,31-40,0,3,Did Not Vote,0,4.1,4.1,3.8,4.4,NA,NA,NA,NA,NA,NA,4.1
+ES,Puerto Rico,Female,41-50,0,5,Did Not Vote,0,1,1,7,1.5,NA,NA,NA,NA,NA,NA,7
+ES,Mexico,Female,25-30,1,2,Did Not Vote,0,1.2,1.3,4.5,5.8,5,4.6,4.9,1.7,5.4,5.4,6.3
+ES,NA,Female,31-40,1,3,Clinton,0,4.5,6,7,5.7,7,3.7,7,6.8,2.8,3.6,7
+ES,Puerto Rico,Male,25-30,1,1,Did Not Vote,0,2.7,6.3,7,7,4.1,6.7,6.5,4.1,5.2,4.8,6.4
+ES,Puerto Rico,Female,31-40,0,1,Did Not Vote,0,1,2.9,5.1,5.2,NA,NA,NA,NA,NA,NA,5.4
+ES,Mexico,Female,31-40,0,3,Did Not Vote,0,1,6.6,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Venezuela,Male,18-24,1,3,Trump,0,5.3,6.4,7,6.4,4.9,5.7,6.2,6.9,7,7,5.7
+ES,NA,Male,31-40,0,1,Trump,0,5.8,6.1,6,6.3,NA,NA,NA,NA,NA,NA,5
+ES,NA,Female,41-50,0,5,Clinton,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Puerto Rico,Female,31-40,0,5,Did Not Vote,1,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+ES,Puerto Rico,Female,31-40,1,5,Did Not Vote,0,1,7,5.4,7,4.4,7,1,7,3.2,1,7
+ES,NA,Female,25-30,NA,1,Did Not Vote,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+ES,Venezuela,Female,31-40,1,2,Did Not Vote,1,3,3.1,NA,NA,NA,6.2,7,1,1,1.9,NA
+ES,Mexico,Female,25-30,1,2,Did Not Vote,0,7,NA,7,7,7,5,5.5,5.7,2.4,4.6,7
+ES,Cuba,Female,31-40,1,2,Did Not Vote,0,6,5.7,6,5.9,5.6,5.6,5.7,5.6,5.3,5.1,6.4
+EN,Puerto Rico,Male,31-40,1,2,Trump,0,5.3,4.8,5.9,5.4,4.8,4.4,4.7,5,4.7,5.4,5.1
+EN,USA,Male,31-40,1,5,Trump,1,1,1,4.8,6.3,4.9,5.2,5.7,4.9,6.2,7,7
+EN,USA,Male,61+,1,5,Clinton,0,1,1,5,6,NA,NA,5,NA,6,NA,7
+EN,USA,Female,31-40,1,5,Clinton,1,1,1,5.5,5.6,2.7,5.5,2.3,5.5,5.3,2.3,5.3
+EN,NA,Male,51-60,1,5,Trump,1,2.4,1.5,1.3,2.6,1.8,6.9,6.4,6.3,1.6,6,1.4
+ES,Mexico,Male,25-30,1,1,Did Not Vote,1,1,NA,4.8,5.7,7,7,7,6,7,7,7
+EN,USA,Male,41-50,0,5,Clinton,0,1,2,5,6,NA,NA,NA,NA,NA,NA,7
+EN,Argentina,Male,41-50,1,3,Clinton,0,7,5.4,7,7,7,7,7,7,NA,4.5,7
+EN,Puerto Rico,Female,51-60,0,5,Clinton,0,1,1,6.3,6.4,NA,NA,NA,NA,NA,NA,7
+EN,Venezuela,Female,31-40,1,1,Did Not Vote,0,7,7,7,6.7,5.5,7,6.5,6.7,NA,5.4,3.9
+EN,USA,Female,41-50,1,5,Trump,0,1,3.3,4.8,4.2,4.9,5.2,4.2,4.2,3,3.2,4.2
+EN,Puerto Rico,Female,31-40,1,5,Clinton,0,1,5.1,7,5.2,6.1,5,5.1,3.3,6.5,6.8,6.1
+EN,USA,Female,31-40,0,5,Did Not Vote,1,1,1,5.2,6.3,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,25-30,0,4,Clinton,0,1,1,3,3.6,NA,NA,NA,NA,NA,NA,4.6
+EN,Other,Female,41-50,0,4,Did Not Vote,0,1,1,6.3,6.5,NA,NA,NA,NA,NA,NA,3.5
+EN,USA,Female,18-24,1,4,Did Not Vote,0,4.8,5.4,7,7,7,7,7,7,6.8,6.8,7
+EN,USA,Male,51-60,1,5,Trump,1,1,1.9,2.6,1,6.1,3.3,6.1,6.1,4.1,2.1,1
+EN,NA,Female,41-50,NA,5,Clinton,0,4.1,4.2,4.2,4.2,NA,NA,NA,NA,NA,NA,5.3
+EN,USA,Female,61+,0,5,Trump,0,2.8,1,2.6,2.6,NA,NA,NA,NA,NA,NA,3
+EN,Mexico,Male,41-50,1,2,Did Not Vote,0,6.7,6.9,7,6.9,6.6,6.9,7,7,6.9,6.8,6.9
+EN,USA,Male,61+,0,5,Other,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Puerto Rico,Male,41-50,0,5,Did Not Vote,1,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Venezuela,Female,61+,1,3,Trump,1,1,2.2,1.8,1.1,5.3,6.5,5.9,4.9,4.2,1.5,2.5
+EN,Panama,Female,41-50,1,4,Trump,1,1,1,2.9,4,4.4,1.9,2.1,1,4.2,1,2.5
+EN,NA,Male,41-50,1,4,Clinton,NA,7,6.9,7,7,7,7,7,7,7,7,7
+EN,NA,Male,18-24,0,3,Other,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,51-60,1,5,Clinton,1,5.6,1,1,2.3,5.2,5.1,5,5.5,5.7,6.1,5.5
+EN,USA,Male,41-50,0,5,Clinton,0,2.9,2.7,2.9,2.9,NA,NA,NA,NA,NA,NA,5.8
+EN,USA,Male,61+,0,5,Clinton,0,1,1,2.4,1,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,61+,0,5,Other,0,1,7,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,61+,0,5,Clinton,0,1,1,6.1,6.9,NA,NA,NA,NA,NA,NA,6.2
+EN,USA,Male,25-30,0,4,Clinton,1,4.6,1.1,4.6,4.8,NA,NA,NA,NA,NA,NA,4.3
+EN,USA,Male,31-40,1,5,Did Not Vote,0,1.2,5.8,1.4,6.9,1.8,4,5.7,6.1,6.6,4.6,6.8
+EN,USA,Male,51-60,1,5,Clinton,1,1,1,5,5,2.9,2.9,3,4.9,2.9,3,5.1
+EN,Panama,Male,51-60,1,5,Trump,1,1,1,1,1.1,7,7,7,7,NA,7,1
+EN,USA,Male,61+,1,5,Trump,1,1,2.2,6.2,1.8,2.5,2.5,1.9,2.1,1.7,2.4,NA
+EN,Panama,Male,61+,0,4,Did Not Vote,1,4.5,3,3,5.2,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Male,51-60,1,5,Clinton,0,1,2,6,6,5.1,5.3,5.3,5.3,5.3,3.1,7
+EN,USA,Male,61+,0,5,Clinton,0,1,NA,1,6,NA,NA,NA,NA,NA,NA,6
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,6.5,6,NA,NA,NA,NA,NA,NA,6
+ES,Mexico,Female,31-40,1,4,Did Not Vote,0,7,5.2,7,7,7,7,7,7,NA,7,5.1
+EN,USA,Male,41-50,0,5,Trump,1,1.1,1.1,1.4,2,NA,NA,NA,NA,NA,NA,5.2
+EN,USA,Male,31-40,1,5,Clinton,0,6,7,7,7,7,7,6.2,6.7,7,7,7
+EN,USA,Male,41-50,1,5,Other,1,1.8,5.5,5,3.3,6.2,5,5.6,5.7,2.6,7,7
+EN,Colombia,Male,31-40,1,5,Clinton,0,2,1.2,3.6,2.8,4.5,5,4.9,4.7,4.9,5.2,7
+EN,USA,Male,31-40,1,3,Trump,0,5.9,6,6.4,6.1,6.3,6,5.9,6.4,6.3,7,6
+EN,USA,Male,31-40,0,5,Clinton,0,1,1.2,2.6,3,NA,NA,NA,NA,NA,NA,5.4
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,5.6,6.4,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Male,31-40,1,5,Did Not Vote,0,1,4.2,5.4,4.2,NA,4.2,5.3,4.2,6,4.2,4.2
+EN,Argentina,Female,51-60,1,1,Clinton,0,5.1,4.5,5.8,5.3,4.2,5,5.2,5.1,5.3,NA,5.6
+EN,USA,Male,61+,0,5,Did Not Vote,1,1,1,1,1.9,NA,NA,NA,NA,NA,NA,3.3
+EN,USA,Male,25-30,0,4,Trump,1,1,1,5,3,NA,NA,NA,NA,NA,NA,2
+ES,USA,Male,31-40,0,5,Did Not Vote,0,1,3.3,1.2,3.9,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,51-60,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1.2
+EN,USA,Male,25-30,0,4,Trump,1,1,1,1,2,NA,NA,NA,NA,NA,NA,1.9
+EN,USA,Female,18-24,1,1,Trump,0,4.4,4.5,4.9,5.1,4.7,4.7,4.6,4.8,4.5,4.5,4.8
+EN,USA,Male,31-40,0,5,Trump,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,61+,1,5,Other,0,1,6.1,6.1,6.1,5.5,5.5,5.5,5.5,5,5,5
+EN,Ecuador,Male,18-24,0,1,Trump,0,3,4.1,3.4,3.5,NA,NA,NA,NA,NA,NA,3.4
+EN,NA,Male,51-60,1,5,Other,1,1,1,NA,NA,2.1,4.8,NA,5.2,2.1,NA,NA
+EN,USA,Male,31-40,1,5,Clinton,1,1,2,6.1,4.1,3,4.4,6.1,5,6,4.5,6.9
+EN,USA,Male,51-60,1,5,Trump,1,3.1,2.7,2.9,2.8,NA,NA,NA,NA,NA,NA,NA
+ES,USA,Male,25-30,1,4,Clinton,0,1,7,7,7,7,7,7,NA,NA,7,7
+EN,Argentina,Male,18-24,1,3,Clinton,1,1.1,1,6,5.4,5.3,1,7,5.7,6.6,1,7
+EN,USA,Female,61+,0,5,Other,1,1,1,2.9,1.8,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,61+,0,5,Clinton,1,1,1.1,1.1,1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,18-24,1,1,Clinton,0,5.6,6.4,5.4,5.8,6.2,5.2,6,6.1,5.3,5.7,6.1
+EN,USA,Male,51-60,0,5,Clinton,1,1,6.1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,51-60,0,5,Other,1,1,1,4.1,3.3,NA,NA,NA,NA,NA,NA,4.4
+EN,Other,Male,41-50,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Other,Male,25-30,1,4,Clinton,1,1,1,5.7,5.7,7,7,4.6,5.7,6.5,2.1,6.1
+EN,USA,Male,61+,0,5,Trump,1,1,1,1,1.8,NA,NA,NA,NA,NA,NA,4.1
+EN,USA,Male,61+,0,5,Trump,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1
+EN,Puerto Rico,Male,18-24,0,3,Other,0,4.9,3.1,3.4,5.1,NA,NA,NA,NA,NA,NA,4.8
+EN,NA,Male,51-60,0,5,Trump,1,2,1.6,4.3,6.2,NA,NA,NA,NA,NA,NA,3
+EN,USA,Male,41-50,0,5,Did Not Vote,1,1,1,5.3,5.2,NA,NA,NA,NA,NA,NA,5.3
+EN,NA,Male,25-30,0,2,Trump,0,4.5,5.3,5.2,5,NA,NA,NA,NA,NA,NA,4.8
+ES,Mexico,Female,25-30,1,3,Clinton,0,6.3,5.5,7,7,4.9,6.1,3,4.9,6.5,2.3,7
+EN,USA,Male,41-50,0,5,Clinton,1,1,5,7,7,NA,NA,NA,NA,NA,NA,4.9
+EN,USA,Male,25-30,1,1,Trump,1,4.9,4.7,5.5,5.9,4.7,5.1,5.5,5.9,6.1,6.8,5.1
+EN,USA,Male,31-40,0,5,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1
+EN,Puerto Rico,Male,31-40,0,5,Clinton,0,1,1,7,5.1,NA,NA,NA,NA,NA,NA,2
+EN,USA,Male,31-40,0,5,Did Not Vote,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,0,5,Clinton,0,1,1,4.1,4.3,NA,NA,NA,NA,NA,NA,5.2
+EN,Cuba,Male,61+,1,5,Clinton,0,1,1,7,6.2,7,6.2,6.2,6.2,5.2,2.6,7
+EN,USA,Male,51-60,0,5,Trump,1,1,1.1,3,1.3,NA,NA,NA,NA,NA,NA,1.4
+EN,USA,Male,41-50,1,5,Clinton,0,1,7,7,7,7,7,NA,7,7,7,7
+EN,USA,Male,18-24,0,3,Trump,1,1,1,1,1,NA,NA,NA,NA,NA,NA,1.2
+EN,Nicaragua,Male,31-40,1,2,Other,1,1.5,4.3,4.1,1,4.1,1.1,2.3,5.5,1.1,1.1,2.4
+EN,USA,Male,51-60,0,5,NA,0,3,5.1,5.2,5.2,NA,NA,NA,NA,NA,NA,7
+EN,Cuba,Male,61+,0,5,Trump,1,1,1,3.1,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Male,61+,0,5,Trump,0,4.3,NA,4.2,4.4,NA,NA,NA,NA,NA,NA,4.7
+EN,Other,Male,61+,0,5,Clinton,0,1,3.7,7,5.7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,41-50,0,5,Clinton,1,1,1,3.1,4.7,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Male,25-30,0,4,Did Not Vote,0,7,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,Puerto Rico,Female,25-30,1,4,Clinton,0,6.5,5,6.5,5,5,3.5,6,1,6,5,6
+EN,USA,Female,41-50,1,5,Clinton,1,1,1,5,3.1,1,4.1,7,1,5.9,1,5
+EN,USA,Male,41-50,1,5,Clinton,0,1,1,7,6.7,4.3,6.8,7,1.2,5.9,2.4,7
+EN,USA,Male,25-30,1,4,Clinton,0,1,4.8,7,5.9,6.4,6.9,5.9,6.6,7,5.4,7
+EN,USA,Male,41-50,1,5,Other,0,2.8,6.1,6.6,2.1,5.6,2,5.5,6.4,6.5,5.2,6.1
+EN,USA,Female,25-30,1,4,Did Not Vote,0,1,4.1,6.9,7,4.1,4.1,5.6,2.7,7,4.1,7
+EN,Cuba,Female,31-40,1,5,Clinton,0,5.3,5.1,4.8,5.7,1.1,6,5.8,5.8,5.6,5.4,5.1
+EN,USA,Female,25-30,1,4,Trump,1,1,2,2,1,1,3,5,2.5,2,3,2
+EN,Cuba,Female,18-24,0,2,Clinton,0,5.5,2.4,5.3,3,NA,NA,NA,NA,NA,NA,2.6
+EN,USA,Female,18-24,1,4,Trump,1,1.4,1,1,1.5,3,3,2.8,3.5,2.2,1.1,5
+EN,Mexico,Male,25-30,1,4,Clinton,0,1,1,4.9,2.3,2.1,4.4,5,2.3,3,2.5,4.8
+EN,USA,Female,18-24,1,3,Did Not Vote,0,1,1,3,3,1,1,1,1,1,1,6.1
+EN,USA,Male,25-30,1,4,Clinton,0,2,5.4,6.6,5,6.1,5.2,6.7,5.6,7,5.4,7
+EN,Uruguay,Male,51-60,1,4,Clinton,0,3.7,4.1,4.9,5,2.5,1.6,4.8,1.6,1.4,1.4,5.1
+EN,Puerto Rico,Male,31-40,1,5,Clinton,0,2.9,5.5,5.7,2.8,5.8,6.1,5.4,5.5,5.1,5.5,6.2
+EN,USA,Male,25-30,1,4,Other,0,7,7,7,7,7,7,7,7,7,7,7
+ES,Peru,Female,31-40,0,3,Clinton,1,4.5,5,5.4,5,NA,NA,NA,NA,NA,NA,4.5
+EN,Colombia,Female,18-24,0,3,Trump,1,1,1,4.3,4.8,NA,NA,NA,NA,NA,NA,5.9
+EN,Chile,Male,31-40,0,2,Did Not Vote,0,1,1,7,7,NA,NA,NA,NA,NA,NA,7
+EN,USA,Female,25-30,0,4,Did Not Vote,0,4,2,4,2,NA,NA,NA,NA,NA,NA,4.5
+ES,Venezuela,Female,31-40,0,1,Did Not Vote,0,1.4,1.5,6,6.1,NA,NA,NA,NA,NA,NA,7
+EN,El Salvador,Female,31-40,1,5,Clinton,0,3.1,5.1,7,7,3,3.1,5.2,1.9,5.2,3.2,7
+EN,USA,Male,25-30,0,4,Did Not Vote,0,1,1,1,3.3,NA,NA,NA,NA,NA,NA,3.9
+EN,Honduras,Male,25-30,0,1,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,7
+EN,USA,Male,31-40,1,5,Clinton,0,1.8,2.3,3.7,4.4,5.6,6.2,6.6,6.4,6.7,6.8,6
+EN,Mexico,Female,18-24,1,3,Did Not Vote,0,6.1,4.9,7,7,7,6.8,5.9,6.2,7,4.8,7
+EN,USA,Female,18-24,1,4,Clinton,0,1,4,5,5.1,4,4,5,4.9,5.8,4.1,7
+EN,Other,Male,41-50,1,3,Clinton,0,1.2,1.8,6.4,6.5,1,1,1.2,1,1.6,1,5
+EN,USA,Female,18-24,1,4,Other,0,2,5.9,7,2,7,7,7,7,7,7,7
+EN,USA,Male,18-24,1,4,Clinton,0,5.7,4.9,4.4,5.4,5.2,4.7,4.5,3.8,4.4,4.8,4.7
+EN,USA,Male,31-40,0,5,Did Not Vote,0,1,1,2.7,3.3,NA,NA,NA,NA,NA,NA,5.4
+ES,USA,Male,25-30,1,4,Did Not Vote,0,4.2,5.1,5.6,5.7,4.4,5,5.5,5.4,5.2,4.7,5.5
+EN,USA,Male,51-60,0,5,Clinton,0,1,1,7,6.6,NA,NA,NA,NA,NA,NA,5
+EN,USA,Female,25-30,0,4,Did Not Vote,1,1,1,1,1,NA,NA,NA,NA,NA,NA,5.1
+EN,USA,Female,18-24,0,4,Clinton,0,2,1.7,5.7,6.1,NA,NA,NA,NA,NA,NA,5.8
+EN,USA,Female,31-40,1,5,Did Not Vote,1,1,5.5,4,6.4,5.5,2.4,5.8,6,7,6,7
+EN,USA,Male,31-40,0,5,Did Not Vote,0,3.8,5.1,7,7,NA,NA,NA,NA,NA,NA,5.1
+EN,Peru,Female,51-60,0,1,Did Not Vote,1,1.4,1.4,6,5.6,NA,NA,NA,NA,NA,NA,6.1
+EN,USA,Female,18-24,1,3,Other,0,1.5,1,6.8,2.7,4.3,4.7,4,4.2,3.3,4,6.1
+EN,USA,Female,25-30,1,4,Clinton,0,NA,7,6.8,NA,5.7,5.8,7,6,2.7,5.4,6.2
+EN,NA,Female,18-24,1,4,Other,0,6,5.5,7,5,7,7,3,7,6,4,5.5
+EN,Mexico,Male,18-24,1,1,Did Not Vote,0,6,5,7,2,2,5,6,1,5,2,5
+EN,NA,Male,25-30,1,2,Other,1,2.6,2.7,2.4,2.8,4.5,3.3,6.7,3.8,4.1,3.5,1
+EN,USA,Female,25-30,1,4,Did Not Vote,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,41-50,1,5,Trump,1,1,1,1,1,1,1,1,1,1,1,1
+EN,USA,Female,18-24,0,4,Other,0,1,1,6,NA,NA,NA,NA,NA,NA,NA,3
+EN,Mexico,Male,18-24,1,1,Did Not Vote,1,1,1,4.7,5.1,1,1,1,1,1,1,7
+EN,USA,Female,25-30,1,4,Did Not Vote,0,7,5.5,7,5.9,7,7,NA,5.5,5.7,5.6,NA
+EN,El Salvador,Female,31-40,1,4,Did Not Vote,0,1,3,3,1,5,4,1,3.7,5.1,1,1
+EN,Peru,NA,NA,1,2,Did Not Vote,1,1,7,5.3,2.4,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,25-30,0,4,Other,0,1,1.5,6,1.5,NA,NA,NA,NA,NA,NA,3
+EN,USA,Female,18-24,1,4,Did Not Vote,0,1,2.2,5,5,6,5,4.2,4.7,6,3.5,5
+EN,Peru,Male,18-24,1,1,Did Not Vote,1,5.2,5.7,7,3,6.5,6.2,6.2,4.9,4.9,2.8,5.9
+EN,El Salvador,Female,31-40,1,2,Did Not Vote,0,2.8,3.2,3,3.3,2.6,2.7,2.9,2.8,3.3,3.2,2.9
+EN,USA,Female,18-24,1,4,Clinton,0,2,1,7,7,7,7,7,7,7,3,7
+EN,USA,Male,18-24,0,4,Other,0,1,1,3,NA,NA,NA,NA,NA,NA,NA,3
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Chile,Female,18-24,1,3,Other,1,1,1,3,5.5,4.4,4.7,5.2,4.8,NA,3,1.9
+EN,USA,Female,18-24,1,4,Clinton,0,1,4,6,6,7,5,7,3,NA,6,7
+ES,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Mexico,Male,25-30,1,1,Did Not Vote,0,3,7,7,1,7,7,7,7,7,NA,7
+EN,USA,Female,18-24,1,4,Did Not Vote,0,1,5,7,4.5,5,7,7,7,1.5,4,6
+EN,Guatemala,Female,31-40,1,3,Clinton,0,7,7,7,7,7,NA,7,7,7,1,7
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Male,18-24,1,1,Did Not Vote,1,5,3,6,5,6,5,3,3,4.1,4,3
+ES,Colombia,Female,51-60,1,5,Clinton,0,1,6,7,1,7,7,6.8,NA,7,7,5.1
+EN,USA,Female,25-30,1,4,Clinton,0,5.1,5.5,7,5.6,5.3,5.7,4.7,6.4,5.6,4.7,5.6
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,31-40,0,5,Clinton,0,1,2,6.7,5.8,NA,NA,NA,NA,NA,NA,3.5
+EN,Argentina,Female,25-30,1,3,Other,0,1,1,1,3,1,1,5.5,1,1,1,4
+EN,USA,Female,51-60,1,5,Clinton,0,1,6.6,7,5.7,7,7,6.3,7,7,4.7,7
+EN,Mexico,Female,25-30,1,4,Other,0,1.9,2.9,6.1,5.2,5.1,5,5.1,3.9,NA,1.8,4
+EN,Colombia,Female,41-50,1,3,Did Not Vote,1,1,1,5,5,6.1,5,5.1,6.1,6.2,2.9,5
+EN,USA,Female,25-30,1,4,Clinton,0,1,3,6,6,3,5,5,6,7,4,5
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,25-30,1,4,Other,0,NA,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,25-30,1,5,Clinton,0,6.1,2.9,7,7,5.6,7,7,1.2,5.6,1.9,7
+EN,USA,Female,18-24,1,3,Did Not Vote,0,1,2,1,5,NA,NA,NA,NA,NA,NA,6.2
+ES,Mexico,Female,31-40,1,3,Did Not Vote,1,1,1,2,1.9,1,1,7,3.5,4.2,5.7,6.1
+EN,Mexico,Male,51-60,1,4,Other,0,1,5.4,5.3,4.7,5,5.5,2.7,2.4,6.4,5.8,6.2
+EN,Mexico,Female,25-30,0,2,Did Not Vote,0,6,6,7,7,NA,NA,NA,NA,NA,NA,5
+ES,Chile,Female,18-24,1,1,Did Not Vote,1,1,1,5,6,NA,5,NA,6,6,2,NA
+ES,Mexico,Female,51-60,1,3,Did Not Vote,0,7,4.2,7,7,4.1,4.1,4.1,4.1,4.2,1.2,6.9
+EN,Puerto Rico,Female,31-40,1,5,Did Not Vote,0,1,7,7,7,7,7,7,1,7,7,7
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,NA,Female,31-40,1,3,Did Not Vote,0,1,7,7,6,5.1,7,6,5.3,7,1.5,7
+EN,NA,Male,31-40,1,3,Did Not Vote,0,7,4,7,5.4,5.9,5.9,7,3.2,NA,5.5,5.1
+EN,Colombia,Male,18-24,1,1,Did Not Vote,0,1,1,4.4,4.4,7,5.7,7,7,5.5,5.5,6.2
+EN,NA,Female,18-24,1,4,Clinton,0,7,5.3,7,7,4,NA,NA,NA,NA,NA,7
+EN,USA,Female,18-24,1,4,Did Not Vote,0,1,5,7,5,5,6.1,4.6,2.3,NA,3.1,5.7
+EN,Mexico,Male,31-40,1,4,Clinton,0,2.4,3.6,NA,5.5,5,5.1,5,2.5,4.3,5.3,5.5
+EN,USA,Female,18-24,1,4,Clinton,0,5.4,5.6,5.8,5.7,5.2,5.2,5.3,5.3,6.4,5.5,7
+EN,USA,Male,25-30,1,4,Clinton,0,7,7,7,5.5,6.3,6.2,6.1,5.8,7,5.2,7
+ES,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Male,18-24,1,NA,Did Not Vote,1,1,1,1,1,2.5,2.5,1,1,1,1,3
+ES,Mexico,Female,31-40,1,3,Other,1,1,1,3,3.1,5,5.1,5.1,NA,5.1,1,NA
+EN,NA,Male,18-24,1,4,Trump,1,1,1.9,4,1,3.1,1,5.6,1,1,1,1
+EN,Mexico,Male,25-30,1,3,Other,0,1.8,1,NA,7,1,NA,NA,NA,NA,1,2.7
+EN,USA,Female,31-40,1,5,Clinton,0,1,2,7,7,6,5,3,NA,6,3,6
+EN,USA,Female,18-24,1,4,Did Not Vote,0,1,2.9,6.4,5.2,6.2,5.1,6.3,5.2,NA,4.9,5.1
+EN,Uruguay,Female,18-24,1,2,Did Not Vote,0,1,6.3,7,7,1,5.9,7,7,7,1,6.2
+EN,USA,Female,18-24,1,4,Did Not Vote,0,6,6.1,7,4.6,6.1,6,6.1,NA,7,4.6,7
+EN,Honduras,Male,18-24,1,2,Did Not Vote,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,1
+EN,USA,Female,18-24,1,4,Clinton,0,1.9,3.1,7,2.4,5.6,7,7,5.6,NA,NA,4.1
+EN,USA,Female,18-24,1,3,Clinton,0,6.2,6.2,6.3,5.7,7,7,7,7,6.1,2.3,6.1
+EN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,USA,Female,18-24,1,4,Clinton,0,1.7,2.6,7,6.5,1.6,5.5,5.6,6.1,5.7,6,7
+EN,USA,Female,18-24,1,4,Other,0,1.1,NA,5.6,4.9,5,7,7,5.7,NA,NA,NA
+EN,USA,Female,25-30,1,4,Other,1,1,2.2,3.1,5.6,3.5,6,6.3,6.7,6.6,3.7,7
+EN,USA,Female,25-30,1,4,Other,0,5,5.1,7,3.2,4.6,7,7,3.1,2.1,2.1,5
+EN,Mexico,Female,18-24,1,3,Did Not Vote,0,7,7,7,1.1,7,7,7,1,6,5.4,7
+EN,USA,Female,18-24,1,3,Did Not Vote,1,1,1,7,7,1,1,7,1,1,1,7
+EN,USA,Female,18-24,1,3,Did Not Vote,0,6,6,7,6,5.5,5.5,6.5,5,6,NA,6
+EN,Puerto Rico,Female,18-24,1,4,Clinton,0,2,5,7,6,6,7,6,6,5.5,5,6
+EN,USA,Female,18-24,1,3,Clinton,0,6.9,5,7,7,7,7,7,2.9,7,2.3,NA
+ES,Mexico,Female,31-40,1,1,Did Not Vote,0,1.9,4.4,4.5,6.7,5.2,5.2,5.9,5.9,6.1,5.8,7
+EN,NA,Female,18-24,1,4,Clinton,0,7,7,7,7,4.8,5.1,4.8,5.5,6.5,5.5,7
+ES,Mexico,Male,41-50,1,3,Did Not Vote,0,5.9,5.7,5.9,6,6,6.2,6.5,6.4,6.8,6.5,5.4
+EN,USA,Female,25-30,1,4,Did Not Vote,0,6.2,6.2,6.2,6.2,5.5,6.3,6.2,5.7,5.4,5,6.5
+EN,Mexico,Female,31-40,1,5,Other,0,1,7,7,7,6,6,7,1,6.3,6,NA
+ES,Venezuela,Male,51-60,1,1,Did Not Vote,0,4.1,6,5.6,6.6,6.3,5.8,6,6.3,6.4,6.3,6.1
+EN,Mexico,Female,51-60,1,4,Clinton,0,NA,NA,7,7,NA,NA,7,NA,7,NA,7
+ES,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EN,Mexico,Female,25-30,1,4,Did Not Vote,0,7,7,7,7,6.2,4.1,7,7,7,NA,6
+EN,USA,Female,25-30,1,4,Clinton,0,7,7,7,7,7,7,7,7,7,7,7
+EN,USA,Female,31-40,1,5,Other,1,1,1,3.1,4.5,1,1,5.5,1.5,1.7,1,5.4
+EN,Mexico,Male,31-40,1,5,Trump,1,NA,NA,NA,NA,6.3,6.1,6.2,6.6,6.2,6.5,NA
+ES,Mexico,Female,41-50,1,4,Did Not Vote,0,4.1,4.2,7,4.4,7,7,7,7,7,7,7
+ES,Mexico,Female,41-50,1,3,Did Not Vote,0,4,7,7,7,1,1,1,5.5,1,1,7
+EN,Mexico,Female,18-24,1,1,Did Not Vote,0,1,7,7,1,2,5.4,5.9,6.7,7,3.1,7
