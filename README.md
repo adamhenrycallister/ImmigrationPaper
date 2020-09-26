@@ -5,6 +5,7 @@ Analysis for the paper "Immigration, Deportation, and Discrimination: Hispanic P
  - age
  - gender
  - time lived in the United States
+ 
 Overall, we find that language preference and knowing an undocumented immigrant have the greatest effect on 1) suvey participants' attitudes toward deportation practices and 2) the likelihood that a given survey participant has perceived an increase in discrimination toward Latinos since the election of Donald Trump. 
 
 ImmigrationPaper.ipynb -- R Code for tables in paper
