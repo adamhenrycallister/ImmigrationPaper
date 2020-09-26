@@ -1,5 +1,5 @@
 # ImmigrationPaper
-Analysis for the paper "Immigration, Deportation, and Discrimination: Hispanic Political Opinion Since the Election of Donald Trump" in the _Hispanic Journal of Behavioral Sciences_. [link](https://journals.sagepub.com/doi/abs/10.1177/0739986319840717). In this paper, we look at how the following factors affect Latino opinion on deportation:
+Analysis for the paper "Immigration, Deportation, and Discrimination: Hispanic Political Opinion Since the Election of Donald Trump" in the _Hispanic Journal of Behavioral Sciences_ ([link](https://journals.sagepub.com/doi/abs/10.1177/0739986319840717)). In this paper, we look at how the following factors affect Latino opinion on deportation:
  - language preference (English vs. Spanish)
  - knowing an undocumented immigrant
  - age
